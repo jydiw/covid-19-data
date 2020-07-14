@@ -1,1 +1,7 @@
-# nyt-covid-19-data
+# COVID-19 Analysis and `pandas` Optimization
+
+This repository is based on data from the [NYTimes COVID-19 Data Tracker](https://github.com/nytimes/covid-19-data).
+
+- `pandas` for exploratory data analysis
+- `plotly` for interactive maps and graphs
+
