@@ -32,18 +32,17 @@ df[['cases_per_100k', 'deaths_per_100k']] = df[['cases', 'deaths']].div(df['popu
 df[['case_density', 'death_density']] = df[['cases', 'deaths']].div(df['population'], axis=0).div(df['area'], axis=0) * 100_000
 df = df.sort_values(by=['date', 'fips'])
 
-# new_cols
+cols = ['cases', 'deaths', 'cases_per_100k', 'deaths_per_100k', 'case_density', 'death_density']
+new_cols = ['new_' + c for c in cols]
+
+# making new_cols
 df[new_cols] = df[cols] - df.groupby(by='fips')[cols].shift()
 df[new_cols] = df[new_cols].fillna(0)
 df[new_cols] = df[new_cols].clip(lower=0)
 
-# delta_cols
-df[delta_cols] = df[new_cols] - df.groupby(by='fips')[new_cols].shift()
-df[delta_cols] = df[delta_cols].fillna(0)
-
-# new_cols_7d and delta_cols_7d
+# new_cols_7d
+new_cols_7d = [c + '_7d' for c in new_cols]
 df[new_cols_7d] = df.groupby(by='fips')[new_cols].apply(lambda x: x.rolling(7, min_periods=1).mean())
-df[delta_cols_7d] = df.groupby(by='fips')[delta_cols].apply(lambda x: x.rolling(7, min_periods=1).mean())
 
 df = optimize(df)
 
