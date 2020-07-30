@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": "area", "encoding": {"color": {"type": "quantitative", "field": "median_income", "scale": {"domain": [31455.77587890625, 116410.79999999996], "domainMid": 61937, "scheme": "lightmulti"}, "sort": "ascending"}, "order": {"type": "quantitative", "field": "median_income", "sort": "ascending"}, "x": {"type": "temporal", "field": "date", "title": "Date"}, "y": {"type": "quantitative", "field": "new_cases"}}, "height": 480, "title": "cases per day", "transform": [{"filter": "(datum.median_income >= 61937)"}], "width": 720}, {"mark": "area", "encoding": {"color": {"type": "quantitative", "field": "median_income", "scale": {"domain": [31455.77587890625, 116410.79999999996], "domainMid": 61937, "scheme": "lightmulti"}, "sort": "ascending"}, "order": {"type": "quantitative", "field": "median_income", "sort": "descending"}, "x": {"type": "temporal", "field": "date", "title": "Date"}, "y": {"type": "quantitative", "axis": {"format": "(.2s"}, "field": "y_alt"}}, "height": 480, "title": "cases per day", "transform": [{"filter": "(datum.median_income < 61937)"}, {"calculate": "datum.new_cases * -1", "as": "y_alt"}], "width": 720}, {"mark": {"type": "line", "color": "black"}, "encoding": {"size": {"value": 0.5}, "x": {"type": "temporal", "field": "date"}, "y": {"type": "quantitative", "field": "zero"}}, "height": 480, "title": "cases per day", "width": 720}], "data": {"url": "http://localhost:22277/e750feb001ecc1850026c9f399853fb0.json"}, "encoding": {"tooltip": [{"type": "nominal", "field": "state"}, {"type": "nominal", "field": "county"}, {"type": "quantitative", "field": "new_cases", "format": ".2f"}]}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json"};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
