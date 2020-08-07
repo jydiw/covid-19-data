@@ -1,0 +1,3224 @@
+fips,median_income,county,state
+01001,58786.0,Autauga,Alabama
+01003,55962.0,Baldwin,Alabama
+01005,34186.0,Barbour,Alabama
+01007,45340.0,Bibb,Alabama
+01009,48695.0,Blount,Alabama
+01011,32152.0,Bullock,Alabama
+01013,39109.0,Butler,Alabama
+01015,45197.0,Calhoun,Alabama
+01017,39872.0,Chambers,Alabama
+01019,41014.0,Cherokee,Alabama
+01021,45182.0,Chilton,Alabama
+01023,34884.0,Choctaw,Alabama
+01025,36127.0,Clarke,Alabama
+01027,41225.0,Clay,Alabama
+01029,40188.0,Cleburne,Alabama
+01031,53155.0,Coffee,Alabama
+01033,47558.0,Colbert,Alabama
+01035,33177.0,Conecuh,Alabama
+01037,38301.0,Coosa,Alabama
+01039,40601.0,Covington,Alabama
+01041,39812.0,Crenshaw,Alabama
+01043,42558.0,Cullman,Alabama
+01045,45960.0,Dale,Alabama
+01047,31602.0,Dallas,Alabama
+01049,39233.0,DeKalb,Alabama
+01051,59347.0,Elmore,Alabama
+01053,35000.0,Escambia,Alabama
+01055,44023.0,Etowah,Alabama
+01057,37458.0,Fayette,Alabama
+01059,40459.0,Franklin,Alabama
+01061,38142.0,Geneva,Alabama
+01063,21804.0,Greene,Alabama
+01065,30571.0,Hale,Alabama
+01067,48610.0,Henry,Alabama
+01069,45496.0,Houston,Alabama
+01071,39816.0,Jackson,Alabama
+01073,51979.0,Jefferson,Alabama
+01075,36756.0,Lamar,Alabama
+01077,46265.0,Lauderdale,Alabama
+01079,44515.0,Lawrence,Alabama
+01081,48056.0,Lee,Alabama
+01083,56460.0,Limestone,Alabama
+01085,30833.0,Lowndes,Alabama
+01087,32074.0,Macon,Alabama
+01089,63417.0,Madison,Alabama
+01091,32809.0,Marengo,Alabama
+01093,35392.0,Marion,Alabama
+01095,42490.0,Marshall,Alabama
+01097,46166.0,Mobile,Alabama
+01099,30141.0,Monroe,Alabama
+01101,47990.0,Montgomery,Alabama
+01103,49751.0,Morgan,Alabama
+01105,23561.0,Perry,Alabama
+01107,37458.0,Pickens,Alabama
+01109,34678.0,Pike,Alabama
+01111,41449.0,Randolph,Alabama
+01113,40978.0,Russell,Alabama
+01115,54887.0,St. Clair,Alabama
+01117,75761.0,Shelby,Alabama
+01119,23132.0,Sumter,Alabama
+01121,41012.0,Talladega,Alabama
+01123,43361.0,Tallapoosa,Alabama
+01125,52221.0,Tuscaloosa,Alabama
+01127,41748.0,Walker,Alabama
+01129,40794.0,Washington,Alabama
+01131,27237.0,Wilcox,Alabama
+01133,38504.0,Winston,Alabama
+02013,69706.0,Aleutians East Borough,Alaska
+02016,85517.0,Aleutians West Census Area,Alaska
+02020,83280.0,Anchorage,Alaska
+02050,54212.0,Bethel Census Area,Alaska
+02060,84688.0,Bristol Bay Borough,Alaska
+02068,84196.0,Denali Borough,Alaska
+02070,58750.0,Dillingham Census Area,Alaska
+02090,77095.0,Fairbanks North Star Borough,Alaska
+02100,64342.0,Haines Borough,Alaska
+02105,63603.0,Hoonah-Angoon Census Area,Alaska
+02110,88213.0,Juneau City and Borough,Alaska
+02122,66684.0,Kenai Peninsula Borough,Alaska
+02130,70356.0,Ketchikan Gateway Borough,Alaska
+02150,78281.0,Kodiak Island Borough,Alaska
+02158,35539.0,Kusilvak Census Area,Alaska
+02164,46406.0,Lake and Peninsula Borough,Alaska
+02170,75905.0,Matanuska-Susitna Borough,Alaska
+02180,58987.0,Nome Census Area,Alaska
+02185,75431.0,North Slope Borough,Alaska
+02188,62949.0,Northwest Arctic Borough,Alaska
+02195,66907.0,Petersburg Borough,Alaska
+02198,54191.0,Prince of Wales-Hyder Census Area,Alaska
+02220,71534.0,Sitka City and Borough,Alaska
+02230,72237.0,Skagway,Alaska
+02240,71541.0,Southeast Fairbanks Census Area,Alaska
+02261,82306.0,Valdez-Cordova Census Area,Alaska
+02275,57583.0,Wrangell City and Borough,Alaska
+02282,65833.0,Yakutat City and Borough,Alaska
+02290,40000.0,Yukon-Koyukuk Census Area,Alaska
+04001,32963.0,Apache,Arizona
+04003,48649.0,Cochise,Arizona
+04005,57616.0,Coconino,Arizona
+04007,42092.0,Gila,Arizona
+04009,51352.0,Graham,Arizona
+04011,60962.0,Greenlee,Arizona
+04012,33333.0,La Paz,Arizona
+04013,61606.0,Maricopa,Arizona
+04015,43266.0,Mohave,Arizona
+04017,40054.0,Navajo,Arizona
+04019,51037.0,Pima,Arizona
+04021,55550.0,Pinal,Arizona
+04023,40467.0,Santa Cruz,Arizona
+04025,50180.0,Yavapai,Arizona
+04027,44058.0,Yuma,Arizona
+05001,39466.0,Arkansas,Arkansas
+05003,39635.0,Ashley,Arkansas
+05005,41481.0,Baxter,Arkansas
+05007,64141.0,Benton,Arkansas
+05009,43262.0,Boone,Arkansas
+05011,39510.0,Bradley,Arkansas
+05013,44022.0,Calhoun,Arkansas
+05015,43505.0,Carroll,Arkansas
+05017,33051.0,Chicot,Arkansas
+05019,39752.0,Clark,Arkansas
+05021,33935.0,Clay,Arkansas
+05023,43391.0,Cleburne,Arkansas
+05025,42460.0,Cleveland,Arkansas
+05027,36148.0,Columbia,Arkansas
+05029,41196.0,Conway,Arkansas
+05031,45868.0,Craighead,Arkansas
+05033,46619.0,Crawford,Arkansas
+05035,39002.0,Crittenden,Arkansas
+05037,43838.0,Cross,Arkansas
+05039,36628.0,Dallas,Arkansas
+05041,30234.0,Desha,Arkansas
+05043,43014.0,Drew,Arkansas
+05045,51930.0,Faulkner,Arkansas
+05047,39463.0,Franklin,Arkansas
+05049,36184.0,Fulton,Arkansas
+05051,43146.0,Garland,Arkansas
+05053,51920.0,Grant,Arkansas
+05055,47497.0,Greene,Arkansas
+05057,41355.0,Hempstead,Arkansas
+05059,41262.0,Hot Spring,Arkansas
+05061,35900.0,Howard,Arkansas
+05063,43523.0,Independence,Arkansas
+05065,40218.0,Izard,Arkansas
+05067,33174.0,Jackson,Arkansas
+05069,38289.0,Jefferson,Arkansas
+05071,37170.0,Johnson,Arkansas
+05073,32412.0,Lafayette,Arkansas
+05075,38528.0,Lawrence,Arkansas
+05077,28367.0,Lee,Arkansas
+05079,45166.0,Lincoln,Arkansas
+05081,45388.0,Little River,Arkansas
+05083,39748.0,Logan,Arkansas
+05085,57509.0,Lonoke,Arkansas
+05087,43891.0,Madison,Arkansas
+05089,35518.0,Marion,Arkansas
+05091,41903.0,Miller,Arkansas
+05093,37237.0,Mississippi,Arkansas
+05095,35190.0,Monroe,Arkansas
+05097,37855.0,Montgomery,Arkansas
+05099,37635.0,Nevada,Arkansas
+05101,39896.0,Newton,Arkansas
+05103,34887.0,Ouachita,Arkansas
+05105,46071.0,Perry,Arkansas
+05107,29263.0,Phillips,Arkansas
+05109,37406.0,Pike,Arkansas
+05111,39277.0,Poinsett,Arkansas
+05113,37035.0,Polk,Arkansas
+05115,41914.0,Pope,Arkansas
+05117,41846.0,Prairie,Arkansas
+05119,50093.0,Pulaski,Arkansas
+05121,36870.0,Randolph,Arkansas
+05123,35356.0,St. Francis,Arkansas
+05125,62152.0,Saline,Arkansas
+05127,35509.0,Scott,Arkansas
+05129,36390.0,Searcy,Arkansas
+05131,43240.0,Sebastian,Arkansas
+05133,46667.0,Sevier,Arkansas
+05135,33708.0,Sharp,Arkansas
+05137,36162.0,Stone,Arkansas
+05139,44000.0,Union,Arkansas
+05141,36897.0,Van Buren,Arkansas
+05143,49629.0,Washington,Arkansas
+05145,43822.0,White,Arkansas
+05147,31023.0,Woodruff,Arkansas
+05149,42361.0,Yell,Arkansas
+06001,92574.0,Alameda,California
+06003,64688.0,Alpine,California
+06005,61198.0,Amador,California
+06007,48443.0,Butte,California
+06009,58151.0,Calaveras,California
+06011,56704.0,Colusa,California
+06013,93712.0,Contra Costa,California
+06015,45258.0,Del Norte,California
+06017,80582.0,El Dorado,California
+06019,51261.0,Fresno,California
+06021,47395.0,Glenn,California
+06023,45528.0,Humboldt,California
+06025,45834.0,Imperial,California
+06027,52874.0,Inyo,California
+06029,52479.0,Kern,California
+06031,53865.0,Kings,California
+06033,42475.0,Lake,California
+06035,56362.0,Lassen,California
+06037,64251.0,Los Angeles,California
+06039,52884.0,Madera,California
+06041,110217.0,Marin,California
+06043,51199.0,Mariposa,California
+06045,49233.0,Mendocino,California
+06047,50129.0,Merced,California
+06049,45149.0,Modoc,California
+06051,63018.0,Mono,California
+06053,66676.0,Monterey,California
+06055,84753.0,Napa,California
+06057,63240.0,Nevada,California
+06059,85398.0,Orange,California
+06061,84357.0,Placer,California
+06063,53270.0,Plumas,California
+06065,63948.0,Riverside,California
+06067,63902.0,Sacramento,California
+06069,81977.0,San Benito,California
+06071,60164.0,San Bernardino,California
+06073,74855.0,San Diego,California
+06075,104552.0,San Francisco,California
+06077,61145.0,San Joaquin,California
+06079,70699.0,San Luis Obispo,California
+06081,113776.0,San Mateo,California
+06083,71657.0,Santa Barbara,California
+06085,116178.0,Santa Clara,California
+06087,78041.0,Santa Cruz,California
+06089,50905.0,Shasta,California
+06091,48125.0,Sierra,California
+06093,44200.0,Siskiyou,California
+06095,77609.0,Solano,California
+06097,76753.0,Sonoma,California
+06099,57387.0,Stanislaus,California
+06101,56955.0,Sutter,California
+06103,42899.0,Tehama,California
+06105,38497.0,Trinity,California
+06107,47518.0,Tulare,California
+06109,56493.0,Tuolumne,California
+06111,84017.0,Ventura,California
+06113,65923.0,Yolo,California
+06115,52624.0,Yuba,California
+08001,67575.0,Adams,Colorado
+08003,39191.0,Alamosa,Colorado
+08005,73925.0,Arapahoe,Colorado
+08007,50753.0,Archuleta,Colorado
+08009,37500.0,Baca,Colorado
+08011,34392.0,Bent,Colorado
+08013,78642.0,Boulder,Colorado
+08014,89624.0,Broomfield,Colorado
+08015,54580.0,Chaffee,Colorado
+08017,55227.0,Cheyenne,Colorado
+08019,69936.0,Clear Creek,Colorado
+08021,34746.0,Conejos,Colorado
+08023,30593.0,Costilla,Colorado
+08025,37586.0,Crowley,Colorado
+08027,44644.0,Custer,Colorado
+08029,44512.0,Delta,Colorado
+08031,63793.0,Denver,Colorado
+08033,41714.0,Dolores,Colorado
+08035,115314.0,Douglas,Colorado
+08037,84685.0,Eagle,Colorado
+08039,96658.0,Elbert,Colorado
+08041,65334.0,El Paso,Colorado
+08043,46296.0,Fremont,Colorado
+08045,72898.0,Garfield,Colorado
+08047,75120.0,Gilpin,Colorado
+08049,70469.0,Grand,Colorado
+08051,54979.0,Gunnison,Colorado
+08053,52188.0,Hinsdale,Colorado
+08055,36705.0,Huerfano,Colorado
+08057,48828.0,Jackson,Colorado
+08059,78943.0,Jefferson,Colorado
+08061,39784.0,Kiowa,Colorado
+08063,51046.0,Kit Carson,Colorado
+08065,46918.0,Lake,Colorado
+08067,64372.0,La Plata,Colorado
+08069,67664.0,Larimer,Colorado
+08071,41945.0,Las Animas,Colorado
+08073,49423.0,Lincoln,Colorado
+08075,48922.0,Logan,Colorado
+08077,53683.0,Mesa,Colorado
+08079,61058.0,Mineral,Colorado
+08081,52807.0,Moffat,Colorado
+08083,46797.0,Montezuma,Colorado
+08085,48739.0,Montrose,Colorado
+08087,51626.0,Morgan,Colorado
+08089,34136.0,Otero,Colorado
+08091,62230.0,Ouray,Colorado
+08093,66861.0,Park,Colorado
+08095,50724.0,Phillips,Colorado
+08097,71244.0,Pitkin,Colorado
+08099,40097.0,Prowers,Colorado
+08101,44634.0,Pueblo,Colorado
+08103,55543.0,Rio Blanco,Colorado
+08105,38639.0,Rio Grande,Colorado
+08107,74273.0,Routt,Colorado
+08109,34410.0,Saguache,Colorado
+08111,46563.0,San Juan,Colorado
+08113,64478.0,San Miguel,Colorado
+08115,45188.0,Sedgwick,Colorado
+08117,77589.0,Summit,Colorado
+08119,65382.0,Teller,Colorado
+08121,49375.0,Washington,Colorado
+08123,70908.0,Weld,Colorado
+08125,48394.0,Yuma,Colorado
+09001,92969.0,Fairfield,Connecticut
+09003,72321.0,Hartford,Connecticut
+09005,78314.0,Litchfield,Connecticut
+09007,84761.0,Middlesex,Connecticut
+09009,67128.0,New Haven,Connecticut
+09011,71368.0,New London,Connecticut
+09013,84916.0,Tolland,Connecticut
+09015,64774.0,Windham,Connecticut
+10001,58775.0,Kent,Delaware
+10003,70996.0,New Castle,Delaware
+10005,60853.0,Sussex,Delaware
+11001,82604.0,District of Columbia,District of Columbia
+12001,49078.0,Alachua,Florida
+12003,61769.0,Baker,Florida
+12005,51829.0,Bay,Florida
+12007,46197.0,Bradford,Florida
+12009,54359.0,Brevard,Florida
+12011,57333.0,Broward,Florida
+12013,38609.0,Calhoun,Florida
+12015,49225.0,Charlotte,Florida
+12017,41424.0,Citrus,Florida
+12019,62653.0,Clay,Florida
+12021,65675.0,Collier,Florida
+12023,44491.0,Columbia,Florida
+12027,35057.0,DeSoto,Florida
+12029,38237.0,Dixie,Florida
+12031,53473.0,Duval,Florida
+12033,49286.0,Escambia,Florida
+12035,53872.0,Flagler,Florida
+12037,42855.0,Franklin,Florida
+12039,40922.0,Gadsden,Florida
+12041,42357.0,Gilchrist,Florida
+12043,39879.0,Glades,Florida
+12045,44291.0,Gulf,Florida
+12047,34583.0,Hamilton,Florida
+12049,37594.0,Hardee,Florida
+12051,40728.0,Hendry,Florida
+12053,46030.0,Hernando,Florida
+12055,37314.0,Highlands,Florida
+12057,56137.0,Hillsborough,Florida
+12059,38608.0,Holmes,Florida
+12061,52336.0,Indian River,Florida
+12063,39002.0,Jackson,Florida
+12065,48173.0,Jefferson,Florida
+12067,39543.0,Lafayette,Florida
+12069,51884.0,Lake,Florida
+12071,54691.0,Lee,Florida
+12073,51201.0,Leon,Florida
+12075,37634.0,Levy,Florida
+12077,37363.0,Liberty,Florida
+12079,35509.0,Madison,Florida
+12081,56036.0,Manatee,Florida
+12083,43361.0,Marion,Florida
+12085,57959.0,Martin,Florida
+12086,48982.0,Miami-Dade,Florida
+12087,67023.0,Monroe,Florida
+12089,66297.0,Nassau,Florida
+12091,62048.0,Okaloosa,Florida
+12093,40367.0,Okeechobee,Florida
+12095,54335.0,Orange,Florida
+12097,50063.0,Osceola,Florida
+12099,59943.0,Palm Beach,Florida
+12101,50417.0,Pasco,Florida
+12103,51454.0,Pinellas,Florida
+12105,48500.0,Polk,Florida
+12107,35649.0,Putnam,Florida
+12109,77323.0,St. Johns,Florida
+12111,49373.0,St. Lucie,Florida
+12113,66242.0,Santa Rosa,Florida
+12115,58644.0,Sarasota,Florida
+12117,63760.0,Seminole,Florida
+12119,55228.0,Sumter,Florida
+12121,42686.0,Suwannee,Florida
+12123,36934.0,Taylor,Florida
+12125,41770.0,Union,Florida
+12127,46760.0,Volusia,Florida
+12129,62778.0,Wakulla,Florida
+12131,53785.0,Walton,Florida
+12133,37188.0,Washington,Florida
+13001,39561.0,Appling,Georgia
+13003,34877.0,Atkinson,Georgia
+13005,36964.0,Bacon,Georgia
+13007,37188.0,Baker,Georgia
+13009,39426.0,Baldwin,Georgia
+13011,45373.0,Banks,Georgia
+13013,57348.0,Barrow,Georgia
+13015,55452.0,Bartow,Georgia
+13017,32705.0,Ben Hill,Georgia
+13019,37163.0,Berrien,Georgia
+13021,39931.0,Bibb,Georgia
+13023,45029.0,Bleckley,Georgia
+13025,37031.0,Brantley,Georgia
+13027,34322.0,Brooks,Georgia
+13029,71322.0,Bryan,Georgia
+13031,41789.0,Bulloch,Georgia
+13033,42773.0,Burke,Georgia
+13035,41845.0,Butts,Georgia
+13037,31725.0,Calhoun,Georgia
+13039,56397.0,Camden,Georgia
+13043,32937.0,Candler,Georgia
+13045,49608.0,Carroll,Georgia
+13047,55125.0,Catoosa,Georgia
+13049,40283.0,Charlton,Georgia
+13051,54911.0,Chatham,Georgia
+13053,46453.0,Chattahoochee,Georgia
+13055,36107.0,Chattooga,Georgia
+13057,79670.0,Cherokee,Georgia
+13059,36889.0,Clarke,Georgia
+13061,25000.0,Clay,Georgia
+13063,45778.0,Clayton,Georgia
+13065,25236.0,Clinch,Georgia
+13067,75153.0,Cobb,Georgia
+13069,38266.0,Coffee,Georgia
+13071,35472.0,Colquitt,Georgia
+13073,76938.0,Columbia,Georgia
+13075,38408.0,Cook,Georgia
+13077,70717.0,Coweta,Georgia
+13079,43257.0,Crawford,Georgia
+13081,35096.0,Crisp,Georgia
+13083,44471.0,Dade,Georgia
+13085,65805.0,Dawson,Georgia
+13087,39148.0,Decatur,Georgia
+13089,59280.0,DeKalb,Georgia
+13091,35757.0,Dodge,Georgia
+13093,35629.0,Dooly,Georgia
+13095,37633.0,Dougherty,Georgia
+13097,62147.0,Douglas,Georgia
+13099,31567.0,Early,Georgia
+13101,34447.0,Echols,Georgia
+13103,65153.0,Effingham,Georgia
+13105,37943.0,Elbert,Georgia
+13107,34946.0,Emanuel,Georgia
+13109,39701.0,Evans,Georgia
+13111,45647.0,Fannin,Georgia
+13113,87272.0,Fayette,Georgia
+13115,46367.0,Floyd,Georgia
+13117,101743.0,Forsyth,Georgia
+13119,40198.0,Franklin,Georgia
+13121,64787.0,Fulton,Georgia
+13123,49389.0,Gilmer,Georgia
+13125,41686.0,Glascock,Georgia
+13127,50672.0,Glynn,Georgia
+13129,44313.0,Gordon,Georgia
+13131,42348.0,Grady,Georgia
+13133,49755.0,Greene,Georgia
+13135,67769.0,Gwinnett,Georgia
+13137,49140.0,Habersham,Georgia
+13139,59898.0,Hall,Georgia
+13141,31984.0,Hancock,Georgia
+13143,46353.0,Haralson,Georgia
+13145,74261.0,Harris,Georgia
+13147,41358.0,Hart,Georgia
+13149,48094.0,Heard,Georgia
+13151,68609.0,Henry,Georgia
+13153,58770.0,Houston,Georgia
+13155,32339.0,Irwin,Georgia
+13157,62495.0,Jackson,Georgia
+13159,43284.0,Jasper,Georgia
+13161,36531.0,Jeff Davis,Georgia
+13163,34300.0,Jefferson,Georgia
+13165,27311.0,Jenkins,Georgia
+13167,39813.0,Johnson,Georgia
+13169,53155.0,Jones,Georgia
+13171,41464.0,Lamar,Georgia
+13173,39104.0,Lanier,Georgia
+13175,37369.0,Laurens,Georgia
+13177,65420.0,Lee,Georgia
+13179,45959.0,Liberty,Georgia
+13181,41014.0,Lincoln,Georgia
+13183,55439.0,Long,Georgia
+13185,41390.0,Lowndes,Georgia
+13187,47488.0,Lumpkin,Georgia
+13189,39199.0,McDuffie,Georgia
+13191,47114.0,McIntosh,Georgia
+13193,31999.0,Macon,Georgia
+13195,51701.0,Madison,Georgia
+13197,44309.0,Marion,Georgia
+13199,36351.0,Meriwether,Georgia
+13201,42927.0,Miller,Georgia
+13205,37027.0,Mitchell,Georgia
+13207,54050.0,Monroe,Georgia
+13209,40728.0,Montgomery,Georgia
+13211,62530.0,Morgan,Georgia
+13213,45238.0,Murray,Georgia
+13215,45389.0,Muscogee,Georgia
+13217,53309.0,Newton,Georgia
+13219,88308.0,Oconee,Georgia
+13221,44927.0,Oglethorpe,Georgia
+13223,66467.0,Paulding,Georgia
+13225,42802.0,Peach,Georgia
+13227,64512.0,Pickens,Georgia
+13229,44167.0,Pierce,Georgia
+13231,58765.0,Pike,Georgia
+13233,43491.0,Polk,Georgia
+13235,38770.0,Pulaski,Georgia
+13237,51245.0,Putnam,Georgia
+13239,30000.0,Quitman,Georgia
+13241,40902.0,Rabun,Georgia
+13243,30914.0,Randolph,Georgia
+13245,40644.0,Richmond,Georgia
+13247,57049.0,Rockdale,Georgia
+13249,41276.0,Schley,Georgia
+13251,37588.0,Screven,Georgia
+13253,34338.0,Seminole,Georgia
+13255,42671.0,Spalding,Georgia
+13257,43416.0,Stephens,Georgia
+13259,25385.0,Stewart,Georgia
+13261,36205.0,Sumter,Georgia
+13263,36213.0,Talbot,Georgia
+13265,31797.0,Taliaferro,Georgia
+13267,38034.0,Tattnall,Georgia
+13269,33442.0,Taylor,Georgia
+13271,30288.0,Telfair,Georgia
+13273,38015.0,Terrell,Georgia
+13275,40112.0,Thomas,Georgia
+13277,42790.0,Tift,Georgia
+13279,36575.0,Toombs,Georgia
+13281,43927.0,Towns,Georgia
+13283,37606.0,Treutlen,Georgia
+13285,43850.0,Troup,Georgia
+13287,38341.0,Turner,Georgia
+13289,33037.0,Twiggs,Georgia
+13291,44978.0,Union,Georgia
+13293,36529.0,Upson,Georgia
+13295,43650.0,Walker,Georgia
+13297,58370.0,Walton,Georgia
+13299,39887.0,Ware,Georgia
+13301,34730.0,Warren,Georgia
+13303,38092.0,Washington,Georgia
+13305,44869.0,Wayne,Georgia
+13307,35755.0,Webster,Georgia
+13309,27626.0,Wheeler,Georgia
+13311,46288.0,White,Georgia
+13313,46970.0,Whitfield,Georgia
+13315,36077.0,Wilcox,Georgia
+13317,35106.0,Wilkes,Georgia
+13319,37583.0,Wilkinson,Georgia
+13321,46076.0,Worth,Georgia
+15001,59297.0,Hawaii,Hawaii
+15003,82906.0,Honolulu,Hawaii
+15005,61875.0,Kalawao,Hawaii
+15007,78482.0,Kauai,Hawaii
+15009,77117.0,Maui,Hawaii
+16001,63137.0,Ada,Idaho
+16003,45319.0,Adams,Idaho
+16005,49739.0,Bannock,Idaho
+16007,54265.0,Bear Lake,Idaho
+16009,46507.0,Benewah,Idaho
+16011,51288.0,Bingham,Idaho
+16013,51968.0,Blaine,Idaho
+16015,53942.0,Boise,Idaho
+16017,48710.0,Bonner,Idaho
+16019,56609.0,Bonneville,Idaho
+16021,43507.0,Boundary,Idaho
+16023,42250.0,Butte,Idaho
+16025,38393.0,Camas,Idaho
+16027,49143.0,Canyon,Idaho
+16029,59611.0,Caribou,Idaho
+16031,50918.0,Cassia,Idaho
+16033,35341.0,Clark,Idaho
+16035,42348.0,Clearwater,Idaho
+16037,39957.0,Custer,Idaho
+16039,46715.0,Elmore,Idaho
+16041,56613.0,Franklin,Idaho
+16043,53311.0,Fremont,Idaho
+16045,43001.0,Gem,Idaho
+16047,48638.0,Gooding,Idaho
+16049,39113.0,Idaho,Idaho
+16051,60162.0,Jefferson,Idaho
+16053,49306.0,Jerome,Idaho
+16055,54457.0,Kootenai,Idaho
+16057,45466.0,Latah,Idaho
+16059,37921.0,Lemhi,Idaho
+16061,41326.0,Lewis,Idaho
+16063,48222.0,Lincoln,Idaho
+16065,36031.0,Madison,Idaho
+16067,50663.0,Minidoka,Idaho
+16069,54174.0,Nez Perce,Idaho
+16071,51058.0,Oneida,Idaho
+16073,40430.0,Owyhee,Idaho
+16075,50289.0,Payette,Idaho
+16077,49985.0,Power,Idaho
+16079,39091.0,Shoshone,Idaho
+16081,68818.0,Teton,Idaho
+16083,50778.0,Twin Falls,Idaho
+16085,55299.0,Valley,Idaho
+16087,37206.0,Washington,Idaho
+17001,51398.0,Adams,Illinois
+17003,34709.0,Alexander,Illinois
+17005,58097.0,Bond,Illinois
+17007,66898.0,Boone,Illinois
+17009,58762.0,Brown,Illinois
+17011,55940.0,Bureau,Illinois
+17013,54392.0,Calhoun,Illinois
+17015,51228.0,Carroll,Illinois
+17017,51997.0,Cass,Illinois
+17019,51692.0,Champaign,Illinois
+17021,52415.0,Christian,Illinois
+17023,54158.0,Clark,Illinois
+17025,48691.0,Clay,Illinois
+17027,65010.0,Clinton,Illinois
+17029,44071.0,Coles,Illinois
+17031,62088.0,Cook,Illinois
+17033,49233.0,Crawford,Illinois
+17035,53376.0,Cumberland,Illinois
+17037,61086.0,DeKalb,Illinois
+17039,55591.0,De Witt,Illinois
+17041,54218.0,Douglas,Illinois
+17043,88711.0,DuPage,Illinois
+17045,51109.0,Edgar,Illinois
+17047,49766.0,Edwards,Illinois
+17049,56293.0,Effingham,Illinois
+17051,44432.0,Fayette,Illinois
+17053,51120.0,Ford,Illinois
+17055,41414.0,Franklin,Illinois
+17057,50180.0,Fulton,Illinois
+17059,42500.0,Gallatin,Illinois
+17061,46052.0,Greene,Illinois
+17063,74140.0,Grundy,Illinois
+17065,56862.0,Hamilton,Illinois
+17067,51549.0,Hancock,Illinois
+17069,43081.0,Hardin,Illinois
+17071,52712.0,Henderson,Illinois
+17073,57250.0,Henry,Illinois
+17075,51825.0,Iroquois,Illinois
+17077,37802.0,Jackson,Illinois
+17079,54951.0,Jasper,Illinois
+17081,47617.0,Jefferson,Illinois
+17083,56747.0,Jersey,Illinois
+17085,57083.0,Jo Daviess,Illinois
+17087,50923.0,Johnson,Illinois
+17089,76912.0,Kane,Illinois
+17091,57981.0,Kankakee,Illinois
+17093,91764.0,Kendall,Illinois
+17095,43709.0,Knox,Illinois
+17097,86244.0,Lake,Illinois
+17099,56243.0,LaSalle,Illinois
+17101,45654.0,Lawrence,Illinois
+17103,57901.0,Lee,Illinois
+17105,56200.0,Livingston,Illinois
+17107,57899.0,Logan,Illinois
+17109,43724.0,McDonough,Illinois
+17111,84803.0,McHenry,Illinois
+17113,65813.0,McLean,Illinois
+17115,50444.0,Macon,Illinois
+17117,53778.0,Macoupin,Illinois
+17119,57890.0,Madison,Illinois
+17121,46102.0,Marion,Illinois
+17123,55901.0,Marshall,Illinois
+17125,45596.0,Mason,Illinois
+17127,42604.0,Massac,Illinois
+17129,69102.0,Menard,Illinois
+17131,58011.0,Mercer,Illinois
+17133,81268.0,Monroe,Illinois
+17135,50304.0,Montgomery,Illinois
+17137,48508.0,Morgan,Illinois
+17139,59623.0,Moultrie,Illinois
+17141,59707.0,Ogle,Illinois
+17143,54770.0,Peoria,Illinois
+17145,48298.0,Perry,Illinois
+17147,69271.0,Piatt,Illinois
+17149,42664.0,Pike,Illinois
+17151,40671.0,Pope,Illinois
+17153,33799.0,Pulaski,Illinois
+17155,65034.0,Putnam,Illinois
+17157,52107.0,Randolph,Illinois
+17159,48724.0,Richland,Illinois
+17161,52630.0,Rock Island,Illinois
+17163,53681.0,St. Clair,Illinois
+17165,41167.0,Saline,Illinois
+17167,60466.0,Sangamon,Illinois
+17169,46151.0,Schuyler,Illinois
+17171,53973.0,Scott,Illinois
+17173,51157.0,Shelby,Illinois
+17175,52260.0,Stark,Illinois
+17177,48016.0,Stephenson,Illinois
+17179,62342.0,Tazewell,Illinois
+17181,49182.0,Union,Illinois
+17183,45384.0,Vermilion,Illinois
+17185,51432.0,Wabash,Illinois
+17187,49607.0,Warren,Illinois
+17189,59469.0,Washington,Illinois
+17191,49764.0,Wayne,Illinois
+17193,47773.0,White,Illinois
+17195,53828.0,Whiteside,Illinois
+17197,83504.0,Will,Illinois
+17199,49053.0,Williamson,Illinois
+17201,52743.0,Winnebago,Illinois
+17203,71867.0,Woodford,Illinois
+18001,51713.0,Adams,Indiana
+18003,53402.0,Allen,Indiana
+18005,59045.0,Bartholomew,Indiana
+18007,46188.0,Benton,Indiana
+18009,42217.0,Blackford,Indiana
+18011,80567.0,Boone,Indiana
+18013,61455.0,Brown,Indiana
+18015,56429.0,Carroll,Indiana
+18017,47545.0,Cass,Indiana
+18019,54240.0,Clark,Indiana
+18021,53021.0,Clay,Indiana
+18023,52488.0,Clinton,Indiana
+18025,43875.0,Crawford,Indiana
+18027,51032.0,Daviess,Indiana
+18029,65096.0,Dearborn,Indiana
+18031,54622.0,Decatur,Indiana
+18033,53808.0,DeKalb,Indiana
+18035,42705.0,Delaware,Indiana
+18037,58994.0,Dubois,Indiana
+18039,55399.0,Elkhart,Indiana
+18041,43317.0,Fayette,Indiana
+18043,61754.0,Floyd,Indiana
+18045,49887.0,Fountain,Indiana
+18047,58382.0,Franklin,Indiana
+18049,49333.0,Fulton,Indiana
+18051,52620.0,Gibson,Indiana
+18053,42593.0,Grant,Indiana
+18055,49177.0,Greene,Indiana
+18057,94644.0,Hamilton,Indiana
+18059,73142.0,Hancock,Indiana
+18061,57132.0,Harrison,Indiana
+18063,78355.0,Hendricks,Indiana
+18065,48235.0,Henry,Indiana
+18067,50869.0,Howard,Indiana
+18069,52208.0,Huntington,Indiana
+18071,49506.0,Jackson,Indiana
+18073,59574.0,Jasper,Indiana
+18075,44772.0,Jay,Indiana
+18077,51119.0,Jefferson,Indiana
+18079,49801.0,Jennings,Indiana
+18081,68712.0,Johnson,Indiana
+18083,46457.0,Knox,Indiana
+18085,58402.0,Kosciusko,Indiana
+18087,60675.0,LaGrange,Indiana
+18089,54249.0,Lake,Indiana
+18091,51101.0,LaPorte,Indiana
+18093,52092.0,Lawrence,Indiana
+18095,47436.0,Madison,Indiana
+18097,46692.0,Marion,Indiana
+18099,54229.0,Marshall,Indiana
+18101,51224.0,Martin,Indiana
+18103,47460.0,Miami,Indiana
+18105,47075.0,Monroe,Indiana
+18107,53610.0,Montgomery,Indiana
+18109,62462.0,Morgan,Indiana
+18111,53146.0,Newton,Indiana
+18113,55033.0,Noble,Indiana
+18115,61148.0,Ohio,Indiana
+18117,45341.0,Orange,Indiana
+18119,48667.0,Owen,Indiana
+18121,48788.0,Parke,Indiana
+18123,51064.0,Perry,Indiana
+18125,52527.0,Pike,Indiana
+18127,68044.0,Porter,Indiana
+18129,62583.0,Posey,Indiana
+18131,48370.0,Pulaski,Indiana
+18133,56169.0,Putnam,Indiana
+18135,45601.0,Randolph,Indiana
+18137,56295.0,Ripley,Indiana
+18139,50535.0,Rush,Indiana
+18141,50938.0,St. Joseph,Indiana
+18143,47123.0,Scott,Indiana
+18145,59214.0,Shelby,Indiana
+18147,56998.0,Spencer,Indiana
+18149,48895.0,Starke,Indiana
+18151,56101.0,Steuben,Indiana
+18153,46517.0,Sullivan,Indiana
+18155,47929.0,Switzerland,Indiana
+18157,51844.0,Tippecanoe,Indiana
+18159,55479.0,Tipton,Indiana
+18161,48227.0,Union,Indiana
+18163,46943.0,Vanderburgh,Indiana
+18165,48377.0,Vermillion,Indiana
+18167,43859.0,Vigo,Indiana
+18169,50637.0,Wabash,Indiana
+18171,61148.0,Warren,Indiana
+18173,70648.0,Warrick,Indiana
+18175,47078.0,Washington,Indiana
+18177,44228.0,Wayne,Indiana
+18179,56265.0,Wells,Indiana
+18181,55086.0,White,Indiana
+18183,61153.0,Whitley,Indiana
+19001,51859.0,Adair,Iowa
+19003,49229.0,Adams,Iowa
+19005,51057.0,Allamakee,Iowa
+19007,41111.0,Appanoose,Iowa
+19009,50397.0,Audubon,Iowa
+19011,65475.0,Benton,Iowa
+19013,52688.0,Black Hawk,Iowa
+19015,61111.0,Boone,Iowa
+19017,68023.0,Bremer,Iowa
+19019,61409.0,Buchanan,Iowa
+19021,54556.0,Buena Vista,Iowa
+19023,55999.0,Butler,Iowa
+19025,50800.0,Calhoun,Iowa
+19027,57674.0,Carroll,Iowa
+19029,48178.0,Cass,Iowa
+19031,65791.0,Cedar,Iowa
+19033,52902.0,Cerro Gordo,Iowa
+19035,54658.0,Cherokee,Iowa
+19037,55385.0,Chickasaw,Iowa
+19039,51571.0,Clarke,Iowa
+19041,47874.0,Clay,Iowa
+19043,52828.0,Clayton,Iowa
+19045,50156.0,Clinton,Iowa
+19047,53609.0,Crawford,Iowa
+19049,84790.0,Dallas,Iowa
+19051,58464.0,Davis,Iowa
+19053,42614.0,Decatur,Iowa
+19055,61179.0,Delaware,Iowa
+19057,49977.0,Des Moines,Iowa
+19059,58099.0,Dickinson,Iowa
+19061,61321.0,Dubuque,Iowa
+19063,48542.0,Emmet,Iowa
+19065,50015.0,Fayette,Iowa
+19067,48110.0,Floyd,Iowa
+19069,53742.0,Franklin,Iowa
+19071,54281.0,Fremont,Iowa
+19073,54050.0,Greene,Iowa
+19075,66965.0,Grundy,Iowa
+19077,57075.0,Guthrie,Iowa
+19079,56273.0,Hamilton,Iowa
+19081,61167.0,Hancock,Iowa
+19083,53872.0,Hardin,Iowa
+19085,60063.0,Harrison,Iowa
+19087,52428.0,Henry,Iowa
+19089,52742.0,Howard,Iowa
+19091,52219.0,Humboldt,Iowa
+19093,55969.0,Ida,Iowa
+19095,58570.0,Iowa,Iowa
+19097,54070.0,Jackson,Iowa
+19099,55727.0,Jasper,Iowa
+19101,43378.0,Jefferson,Iowa
+19103,61640.0,Johnson,Iowa
+19105,56012.0,Jones,Iowa
+19107,51043.0,Keokuk,Iowa
+19109,54146.0,Kossuth,Iowa
+19111,48571.0,Lee,Iowa
+19113,64862.0,Linn,Iowa
+19115,53943.0,Louisa,Iowa
+19117,50206.0,Lucas,Iowa
+19119,64352.0,Lyon,Iowa
+19121,64512.0,Madison,Iowa
+19123,52950.0,Mahaska,Iowa
+19125,58492.0,Marion,Iowa
+19127,54027.0,Marshall,Iowa
+19129,69177.0,Mills,Iowa
+19131,55553.0,Mitchell,Iowa
+19133,45252.0,Monona,Iowa
+19135,49549.0,Monroe,Iowa
+19137,47648.0,Montgomery,Iowa
+19139,57348.0,Muscatine,Iowa
+19141,53045.0,O'Brien,Iowa
+19143,58125.0,Osceola,Iowa
+19145,49974.0,Page,Iowa
+19147,52462.0,Palo Alto,Iowa
+19149,64296.0,Plymouth,Iowa
+19151,49877.0,Pocahontas,Iowa
+19153,66044.0,Polk,Iowa
+19155,57467.0,Pottawattamie,Iowa
+19157,53520.0,Poweshiek,Iowa
+19159,52005.0,Ringgold,Iowa
+19161,54958.0,Sac,Iowa
+19163,58803.0,Scott,Iowa
+19165,55489.0,Shelby,Iowa
+19167,67178.0,Sioux,Iowa
+19169,54554.0,Story,Iowa
+19171,55898.0,Tama,Iowa
+19173,48717.0,Taylor,Iowa
+19175,47518.0,Union,Iowa
+19177,47083.0,Van Buren,Iowa
+19179,45233.0,Wapello,Iowa
+19181,74383.0,Warren,Iowa
+19183,61769.0,Washington,Iowa
+19185,45017.0,Wayne,Iowa
+19187,44261.0,Webster,Iowa
+19189,51002.0,Winnebago,Iowa
+19191,62820.0,Winneshiek,Iowa
+19193,55483.0,Woodbury,Iowa
+19195,54329.0,Worth,Iowa
+19197,50198.0,Wright,Iowa
+20001,42679.0,Allen,Kansas
+20003,46274.0,Anderson,Kansas
+20005,48667.0,Atchison,Kansas
+20007,50613.0,Barber,Kansas
+20009,50198.0,Barton,Kansas
+20011,40733.0,Bourbon,Kansas
+20013,48547.0,Brown,Kansas
+20015,63272.0,Butler,Kansas
+20017,46295.0,Chase,Kansas
+20019,38690.0,Chautauqua,Kansas
+20021,41103.0,Cherokee,Kansas
+20023,46833.0,Cheyenne,Kansas
+20025,50368.0,Clark,Kansas
+20027,56186.0,Clay,Kansas
+20029,44143.0,Cloud,Kansas
+20031,58636.0,Coffey,Kansas
+20033,56912.0,Comanche,Kansas
+20035,48087.0,Cowley,Kansas
+20037,40174.0,Crawford,Kansas
+20039,44104.0,Decatur,Kansas
+20041,48167.0,Dickinson,Kansas
+20043,49338.0,Doniphan,Kansas
+20045,55832.0,Douglas,Kansas
+20047,49293.0,Edwards,Kansas
+20049,38494.0,Elk,Kansas
+20051,52700.0,Ellis,Kansas
+20053,48188.0,Ellsworth,Kansas
+20055,56573.0,Finney,Kansas
+20057,53072.0,Ford,Kansas
+20059,55486.0,Franklin,Kansas
+20061,49185.0,Geary,Kansas
+20063,48894.0,Gove,Kansas
+20065,40769.0,Graham,Kansas
+20067,55455.0,Grant,Kansas
+20069,64426.0,Gray,Kansas
+20071,51250.0,Greeley,Kansas
+20073,42595.0,Greenwood,Kansas
+20075,45000.0,Hamilton,Kansas
+20077,49455.0,Harper,Kansas
+20079,56051.0,Harvey,Kansas
+20081,53527.0,Haskell,Kansas
+20083,53854.0,Hodgeman,Kansas
+20085,55904.0,Jackson,Kansas
+20087,61793.0,Jefferson,Kansas
+20089,42552.0,Jewell,Kansas
+20091,84915.0,Johnson,Kansas
+20093,51314.0,Kearny,Kansas
+20095,58483.0,Kingman,Kansas
+20097,51336.0,Kiowa,Kansas
+20099,47668.0,Labette,Kansas
+20101,51719.0,Lane,Kansas
+20103,71184.0,Leavenworth,Kansas
+20105,46196.0,Lincoln,Kansas
+20107,43699.0,Linn,Kansas
+20109,51597.0,Logan,Kansas
+20111,44191.0,Lyon,Kansas
+20113,57765.0,McPherson,Kansas
+20115,51262.0,Marion,Kansas
+20117,50234.0,Marshall,Kansas
+20119,55568.0,Meade,Kansas
+20121,69150.0,Miami,Kansas
+20123,45221.0,Mitchell,Kansas
+20125,45173.0,Montgomery,Kansas
+20127,50352.0,Morris,Kansas
+20129,43925.0,Morton,Kansas
+20131,58644.0,Nemaha,Kansas
+20133,44294.0,Neosho,Kansas
+20135,51033.0,Ness,Kansas
+20137,49891.0,Norton,Kansas
+20139,55036.0,Osage,Kansas
+20141,48355.0,Osborne,Kansas
+20143,51971.0,Ottawa,Kansas
+20145,42853.0,Pawnee,Kansas
+20147,48272.0,Phillips,Kansas
+20149,64657.0,Pottawatomie,Kansas
+20151,54029.0,Pratt,Kansas
+20153,48125.0,Rawlins,Kansas
+20155,49174.0,Reno,Kansas
+20157,48022.0,Republic,Kansas
+20159,50764.0,Rice,Kansas
+20161,49910.0,Riley,Kansas
+20163,50511.0,Rooks,Kansas
+20165,40598.0,Rush,Kansas
+20167,52806.0,Russell,Kansas
+20169,50515.0,Saline,Kansas
+20171,71394.0,Scott,Kansas
+20173,54974.0,Sedgwick,Kansas
+20175,47025.0,Seward,Kansas
+20177,55199.0,Shawnee,Kansas
+20179,56071.0,Sheridan,Kansas
+20181,52847.0,Sherman,Kansas
+20183,43438.0,Smith,Kansas
+20185,48563.0,Stafford,Kansas
+20187,46726.0,Stanton,Kansas
+20189,56507.0,Stevens,Kansas
+20191,54915.0,Sumner,Kansas
+20193,57478.0,Thomas,Kansas
+20195,56810.0,Trego,Kansas
+20197,60450.0,Wabaunsee,Kansas
+20199,58875.0,Wallace,Kansas
+20201,48889.0,Washington,Kansas
+20203,57566.0,Wichita,Kansas
+20205,46208.0,Wilson,Kansas
+20207,34621.0,Woodson,Kansas
+20209,44873.0,Wyandotte,Kansas
+21001,39346.0,Adair,Kentucky
+21003,40893.0,Allen,Kentucky
+21005,54160.0,Anderson,Kentucky
+21007,44350.0,Ballard,Kentucky
+21009,40216.0,Barren,Kentucky
+21011,40837.0,Bath,Kentucky
+21013,24628.0,Bell,Kentucky
+21015,75043.0,Boone,Kentucky
+21017,51462.0,Bourbon,Kentucky
+21019,46165.0,Boyd,Kentucky
+21021,43274.0,Boyle,Kentucky
+21023,45827.0,Bracken,Kentucky
+21025,26376.0,Breathitt,Kentucky
+21027,48189.0,Breckinridge,Kentucky
+21029,60534.0,Bullitt,Kentucky
+21031,40061.0,Butler,Kentucky
+21033,44940.0,Caldwell,Kentucky
+21035,40219.0,Calloway,Kentucky
+21037,59782.0,Campbell,Kentucky
+21039,39664.0,Carlisle,Kentucky
+21041,43258.0,Carroll,Kentucky
+21043,33067.0,Carter,Kentucky
+21045,34457.0,Casey,Kentucky
+21047,41235.0,Christian,Kentucky
+21049,52938.0,Clark,Kentucky
+21051,26250.0,Clay,Kentucky
+21053,31115.0,Clinton,Kentucky
+21055,43169.0,Crittenden,Kentucky
+21057,32906.0,Cumberland,Kentucky
+21059,49836.0,Daviess,Kentucky
+21061,41360.0,Edmonson,Kentucky
+21063,33377.0,Elliott,Kentucky
+21065,31337.0,Estill,Kentucky
+21067,54918.0,Fayette,Kentucky
+21069,42213.0,Fleming,Kentucky
+21071,31267.0,Floyd,Kentucky
+21073,55068.0,Franklin,Kentucky
+21075,28559.0,Fulton,Kentucky
+21077,50204.0,Gallatin,Kentucky
+21079,49888.0,Garrard,Kentucky
+21081,45610.0,Grant,Kentucky
+21083,41615.0,Graves,Kentucky
+21085,37906.0,Grayson,Kentucky
+21087,37374.0,Green,Kentucky
+21089,49343.0,Greenup,Kentucky
+21091,52019.0,Hancock,Kentucky
+21093,53168.0,Hardin,Kentucky
+21095,26324.0,Harlan,Kentucky
+21097,49696.0,Harrison,Kentucky
+21099,37795.0,Hart,Kentucky
+21101,45389.0,Henderson,Kentucky
+21103,51447.0,Henry,Kentucky
+21105,40463.0,Hickman,Kentucky
+21107,45738.0,Hopkins,Kentucky
+21109,32143.0,Jackson,Kentucky
+21111,54357.0,Jefferson,Kentucky
+21113,56728.0,Jessamine,Kentucky
+21115,37559.0,Johnson,Kentucky
+21117,61606.0,Kenton,Kentucky
+21119,29326.0,Knott,Kentucky
+21121,28790.0,Knox,Kentucky
+21123,41779.0,Larue,Kentucky
+21125,39230.0,Laurel,Kentucky
+21127,31813.0,Lawrence,Kentucky
+21129,23972.0,Lee,Kentucky
+21131,30798.0,Leslie,Kentucky
+21133,29856.0,Letcher,Kentucky
+21135,31096.0,Lewis,Kentucky
+21137,39833.0,Lincoln,Kentucky
+21139,46076.0,Livingston,Kentucky
+21141,43842.0,Logan,Kentucky
+21143,50097.0,Lyon,Kentucky
+21145,44486.0,McCracken,Kentucky
+21147,23273.0,McCreary,Kentucky
+21149,50445.0,McLean,Kentucky
+21151,48687.0,Madison,Kentucky
+21153,29516.0,Magoffin,Kentucky
+21155,38544.0,Marion,Kentucky
+21157,50731.0,Marshall,Kentucky
+21159,35125.0,Martin,Kentucky
+21161,41415.0,Mason,Kentucky
+21163,57963.0,Meade,Kentucky
+21165,39905.0,Menifee,Kentucky
+21167,50475.0,Mercer,Kentucky
+21169,35809.0,Metcalfe,Kentucky
+21171,34167.0,Monroe,Kentucky
+21173,41974.0,Montgomery,Kentucky
+21175,34419.0,Morgan,Kentucky
+21177,43110.0,Muhlenberg,Kentucky
+21179,57469.0,Nelson,Kentucky
+21181,41354.0,Nicholas,Kentucky
+21183,42826.0,Ohio,Kentucky
+21185,97597.0,Oldham,Kentucky
+21187,45338.0,Owen,Kentucky
+21189,25530.0,Owsley,Kentucky
+21191,52620.0,Pendleton,Kentucky
+21193,31046.0,Perry,Kentucky
+21195,34081.0,Pike,Kentucky
+21197,36958.0,Powell,Kentucky
+21199,37921.0,Pulaski,Kentucky
+21201,38864.0,Robertson,Kentucky
+21203,36468.0,Rockcastle,Kentucky
+21205,37639.0,Rowan,Kentucky
+21207,36159.0,Russell,Kentucky
+21209,66966.0,Scott,Kentucky
+21211,64240.0,Shelby,Kentucky
+21213,48311.0,Simpson,Kentucky
+21215,77738.0,Spencer,Kentucky
+21217,39055.0,Taylor,Kentucky
+21219,41865.0,Todd,Kentucky
+21221,52279.0,Trigg,Kentucky
+21223,47470.0,Trimble,Kentucky
+21225,42844.0,Union,Kentucky
+21227,52007.0,Warren,Kentucky
+21229,50794.0,Washington,Kentucky
+21231,34039.0,Wayne,Kentucky
+21233,40947.0,Webster,Kentucky
+21235,36897.0,Whitley,Kentucky
+21237,22458.0,Wolfe,Kentucky
+21239,62629.0,Woodford,Kentucky
+22001,41177.0,Acadia,Louisiana
+22003,41009.0,Allen,Louisiana
+22005,76589.0,Ascension,Louisiana
+22007,44744.0,Assumption,Louisiana
+22009,38077.0,Avoyelles,Louisiana
+22011,50738.0,Beauregard,Louisiana
+22013,30300.0,Bienville,Louisiana
+22015,53806.0,Bossier,Louisiana
+22017,40866.0,Caddo,Louisiana
+22019,49452.0,Calcasieu,Louisiana
+22021,32174.0,Caldwell,Louisiana
+22023,55000.0,Cameron,Louisiana
+22025,38854.0,Catahoula,Louisiana
+22027,27303.0,Claiborne,Louisiana
+22029,31813.0,Concordia,Louisiana
+22031,44230.0,De Soto,Louisiana
+22033,52719.0,East Baton Rouge,Louisiana
+22035,21161.0,East Carroll,Louisiana
+22037,48129.0,East Feliciana,Louisiana
+22039,32180.0,Evangeline,Louisiana
+22041,35466.0,Franklin,Louisiana
+22043,40792.0,Grant,Louisiana
+22045,45274.0,Iberia,Louisiana
+22047,47797.0,Iberville,Louisiana
+22049,38523.0,Jackson,Louisiana
+22051,52558.0,Jefferson,Louisiana
+22053,39653.0,Jefferson Davis,Louisiana
+22055,54726.0,Lafayette,Louisiana
+22057,53089.0,Lafourche,Louisiana
+22059,36868.0,LaSalle,Louisiana
+22061,34154.0,Lincoln,Louisiana
+22063,63159.0,Livingston,Louisiana
+22065,27810.0,Madison,Louisiana
+22067,33333.0,Morehouse,Louisiana
+22069,27795.0,Natchitoches,Louisiana
+22071,39576.0,Orleans,Louisiana
+22073,41314.0,Ouachita,Louisiana
+22075,52386.0,Plaquemines,Louisiana
+22077,44269.0,Pointe Coupee,Louisiana
+22079,44852.0,Rapides,Louisiana
+22081,33446.0,Red River,Louisiana
+22083,34422.0,Richland,Louisiana
+22085,39465.0,Sabine,Louisiana
+22087,46011.0,St. Bernard,Louisiana
+22089,66620.0,St. Charles,Louisiana
+22091,39895.0,St. Helena,Louisiana
+22093,50661.0,St. James,Louisiana
+22095,54821.0,St. John the Baptist,Louisiana
+22097,33288.0,St. Landry,Louisiana
+22099,47974.0,St. Martin,Louisiana
+22101,40485.0,St. Mary,Louisiana
+22103,67706.0,St. Tammany,Louisiana
+22105,46297.0,Tangipahoa,Louisiana
+22107,23870.0,Tensas,Louisiana
+22109,48866.0,Terrebonne,Louisiana
+22111,43083.0,Union,Louisiana
+22113,50690.0,Vermilion,Louisiana
+22115,47772.0,Vernon,Louisiana
+22117,34985.0,Washington,Louisiana
+22119,30358.0,Webster,Louisiana
+22121,60908.0,West Baton Rouge,Louisiana
+22123,36528.0,West Carroll,Louisiana
+22125,55510.0,West Feliciana,Louisiana
+22127,35398.0,Winn,Louisiana
+23001,51412.0,Androscoggin,Maine
+23003,39824.0,Aroostook,Maine
+23005,69708.0,Cumberland,Maine
+23007,48053.0,Franklin,Maine
+23009,53068.0,Hancock,Maine
+23011,52929.0,Kennebec,Maine
+23013,55402.0,Knox,Maine
+23015,55180.0,Lincoln,Maine
+23017,47275.0,Oxford,Maine
+23019,49374.0,Penobscot,Maine
+23021,39470.0,Piscataquis,Maine
+23023,62131.0,Sagadahoc,Maine
+23025,42491.0,Somerset,Maine
+23027,51564.0,Waldo,Maine
+23029,41384.0,Washington,Maine
+23031,65538.0,York,Maine
+24001,44065.0,Allegany,Maryland
+24003,97810.0,Anne Arundel,Maryland
+24005,74127.0,Baltimore,Maryland
+24009,104301.0,Calvert,Maryland
+24011,54956.0,Caroline,Maryland
+24013,93363.0,Carroll,Maryland
+24015,72845.0,Cecil,Maryland
+24017,95924.0,Charles,Maryland
+24019,52145.0,Dorchester,Maryland
+24021,91999.0,Frederick,Maryland
+24023,49619.0,Garrett,Maryland
+24025,85942.0,Harford,Maryland
+24027,117730.0,Howard,Maryland
+24029,56009.0,Kent,Maryland
+24031,106287.0,Montgomery,Maryland
+24033,81969.0,Prince George's,Maryland
+24035,92167.0,Queen Anne's,Maryland
+24037,90438.0,St. Mary's,Maryland
+24039,42165.0,Somerset,Maryland
+24041,67204.0,Talbot,Maryland
+24043,59719.0,Washington,Maryland
+24045,56608.0,Wicomico,Maryland
+24047,61145.0,Worcester,Maryland
+24510,48840.0,Baltimore city,Maryland
+25001,70621.0,Barnstable,Massachusetts
+25003,56674.0,Berkshire,Massachusetts
+25005,66157.0,Bristol,Massachusetts
+25007,71224.0,Dukes,Massachusetts
+25009,75878.0,Essex,Massachusetts
+25011,59522.0,Franklin,Massachusetts
+25013,53403.0,Hampden,Massachusetts
+25015,67044.0,Hampshire,Massachusetts
+25017,97012.0,Middlesex,Massachusetts
+25019,105171.0,Nantucket,Massachusetts
+25021,99511.0,Norfolk,Massachusetts
+25023,85654.0,Plymouth,Massachusetts
+25025,64582.0,Suffolk,Massachusetts
+25027,71895.0,Worcester,Massachusetts
+26001,39735.0,Alcona,Michigan
+26003,46007.0,Alger,Michigan
+26005,59883.0,Allegan,Michigan
+26007,41991.0,Alpena,Michigan
+26009,52589.0,Antrim,Michigan
+26011,40769.0,Arenac,Michigan
+26013,42444.0,Baraga,Michigan
+26015,61016.0,Barry,Michigan
+26017,48005.0,Bay,Michigan
+26019,56639.0,Benzie,Michigan
+26021,49135.0,Berrien,Michigan
+26023,50536.0,Branch,Michigan
+26025,47426.0,Calhoun,Michigan
+26027,53571.0,Cass,Michigan
+26029,53207.0,Charlevoix,Michigan
+26031,46161.0,Cheboygan,Michigan
+26033,44483.0,Chippewa,Michigan
+26035,37369.0,Clare,Michigan
+26037,67482.0,Clinton,Michigan
+26039,47443.0,Crawford,Michigan
+26041,46490.0,Delta,Michigan
+26043,48966.0,Dickinson,Michigan
+26045,62474.0,Eaton,Michigan
+26047,54055.0,Emmet,Michigan
+26049,47006.0,Genesee,Michigan
+26051,43290.0,Gladwin,Michigan
+26053,38798.0,Gogebic,Michigan
+26055,61485.0,Grand Traverse,Michigan
+26057,44991.0,Gratiot,Michigan
+26059,48392.0,Hillsdale,Michigan
+26061,42852.0,Houghton,Michigan
+26063,46320.0,Huron,Michigan
+26065,50940.0,Ingham,Michigan
+26067,54343.0,Ionia,Michigan
+26069,42102.0,Iosco,Michigan
+26071,38918.0,Iron,Michigan
+26073,44408.0,Isabella,Michigan
+26075,51431.0,Jackson,Michigan
+26077,54431.0,Kalamazoo,Michigan
+26079,46004.0,Kalkaska,Michigan
+26081,60351.0,Kent,Michigan
+26083,49779.0,Keweenaw,Michigan
+26085,34631.0,Lake,Michigan
+26087,58952.0,Lapeer,Michigan
+26089,63831.0,Leelanau,Michigan
+26091,53972.0,Lenawee,Michigan
+26093,80897.0,Livingston,Michigan
+26095,42255.0,Luce,Michigan
+26097,46507.0,Mackinac,Michigan
+26099,60466.0,Macomb,Michigan
+26101,47172.0,Manistee,Michigan
+26103,50771.0,Marquette,Michigan
+26105,49663.0,Mason,Michigan
+26107,44460.0,Mecosta,Michigan
+26109,45508.0,Menominee,Michigan
+26111,59271.0,Midland,Michigan
+26113,44766.0,Missaukee,Michigan
+26115,61514.0,Monroe,Michigan
+26117,47000.0,Montcalm,Michigan
+26119,42305.0,Montmorency,Michigan
+26121,48329.0,Muskegon,Michigan
+26123,46724.0,Newaygo,Michigan
+26125,76387.0,Oakland,Michigan
+26127,46217.0,Oceana,Michigan
+26129,40150.0,Ogemaw,Michigan
+26131,38906.0,Ontonagon,Michigan
+26133,42689.0,Osceola,Michigan
+26135,40255.0,Oscoda,Michigan
+26137,52645.0,Otsego,Michigan
+26139,67468.0,Ottawa,Michigan
+26141,46439.0,Presque Isle,Michigan
+26143,40302.0,Roscommon,Michigan
+26145,46919.0,Saginaw,Michigan
+26147,55240.0,St. Clair,Michigan
+26149,50117.0,St. Joseph,Michigan
+26151,45277.0,Sanilac,Michigan
+26153,40747.0,Schoolcraft,Michigan
+26155,54742.0,Shiawassee,Michigan
+26157,47694.0,Tuscola,Michigan
+26159,52351.0,Van Buren,Michigan
+26161,69434.0,Washtenaw,Michigan
+26163,45321.0,Wayne,Michigan
+26165,44166.0,Wexford,Michigan
+27001,45989.0,Aitkin,Minnesota
+27003,79923.0,Anoka,Minnesota
+27005,59278.0,Becker,Minnesota
+27007,47410.0,Beltrami,Minnesota
+27009,56357.0,Benton,Minnesota
+27011,51920.0,Big Stone,Minnesota
+27013,55861.0,Blue Earth,Minnesota
+27015,57728.0,Brown,Minnesota
+27017,60390.0,Carlton,Minnesota
+27019,97895.0,Carver,Minnesota
+27021,50173.0,Cass,Minnesota
+27023,54552.0,Chippewa,Minnesota
+27025,80409.0,Chisago,Minnesota
+27027,65000.0,Clay,Minnesota
+27029,46291.0,Clearwater,Minnesota
+27031,52271.0,Cook,Minnesota
+27033,53354.0,Cottonwood,Minnesota
+27035,54508.0,Crow Wing,Minnesota
+27037,83288.0,Dakota,Minnesota
+27039,71669.0,Dodge,Minnesota
+27041,60676.0,Douglas,Minnesota
+27043,52286.0,Faribault,Minnesota
+27045,59451.0,Fillmore,Minnesota
+27047,52447.0,Freeborn,Minnesota
+27049,64765.0,Goodhue,Minnesota
+27051,55912.0,Grant,Minnesota
+27053,74113.0,Hennepin,Minnesota
+27055,58729.0,Houston,Minnesota
+27057,55472.0,Hubbard,Minnesota
+27059,72473.0,Isanti,Minnesota
+27061,53022.0,Itasca,Minnesota
+27063,57010.0,Jackson,Minnesota
+27065,53300.0,Kanabec,Minnesota
+27067,59089.0,Kandiyohi,Minnesota
+27069,57112.0,Kittson,Minnesota
+27071,47129.0,Koochiching,Minnesota
+27073,52199.0,Lac qui Parle,Minnesota
+27075,59516.0,Lake,Minnesota
+27077,49068.0,Lake of the Woods,Minnesota
+27079,67451.0,Le Sueur,Minnesota
+27081,52301.0,Lincoln,Minnesota
+27083,55525.0,Lyon,Minnesota
+27085,61275.0,McLeod,Minnesota
+27087,44537.0,Mahnomen,Minnesota
+27089,58723.0,Marshall,Minnesota
+27091,53915.0,Martin,Minnesota
+27093,61856.0,Meeker,Minnesota
+27095,53888.0,Mille Lacs,Minnesota
+27097,54962.0,Morrison,Minnesota
+27099,53665.0,Mower,Minnesota
+27101,57500.0,Murray,Minnesota
+27103,65027.0,Nicollet,Minnesota
+27105,54149.0,Nobles,Minnesota
+27107,55206.0,Norman,Minnesota
+27109,74880.0,Olmsted,Minnesota
+27111,57131.0,Otter Tail,Minnesota
+27113,59036.0,Pennington,Minnesota
+27115,49138.0,Pine,Minnesota
+27117,52309.0,Pipestone,Minnesota
+27119,57151.0,Polk,Minnesota
+27121,58132.0,Pope,Minnesota
+27123,62304.0,Ramsey,Minnesota
+27125,56588.0,Red Lake,Minnesota
+27127,53230.0,Redwood,Minnesota
+27129,57886.0,Renville,Minnesota
+27131,65758.0,Rice,Minnesota
+27133,59890.0,Rock,Minnesota
+27135,59644.0,Roseau,Minnesota
+27137,53344.0,St. Louis,Minnesota
+27139,97744.0,Scott,Minnesota
+27141,85818.0,Sherburne,Minnesota
+27143,62761.0,Sibley,Minnesota
+27145,60606.0,Stearns,Minnesota
+27147,62731.0,Steele,Minnesota
+27149,58363.0,Stevens,Minnesota
+27151,48577.0,Swift,Minnesota
+27153,52872.0,Todd,Minnesota
+27155,48784.0,Traverse,Minnesota
+27157,65138.0,Wabasha,Minnesota
+27159,45860.0,Wadena,Minnesota
+27161,55612.0,Waseca,Minnesota
+27163,92376.0,Washington,Minnesota
+27165,51097.0,Watonwan,Minnesota
+27167,54935.0,Wilkin,Minnesota
+27169,55529.0,Winona,Minnesota
+27171,81881.0,Wright,Minnesota
+27173,56943.0,Yellow Medicine,Minnesota
+28001,29203.0,Adams,Mississippi
+28003,40180.0,Alcorn,Mississippi
+28005,31854.0,Amite,Mississippi
+28007,34756.0,Attala,Mississippi
+28009,35974.0,Benton,Mississippi
+28011,29912.0,Bolivar,Mississippi
+28013,36440.0,Calhoun,Mississippi
+28015,43060.0,Carroll,Mississippi
+28017,35939.0,Chickasaw,Mississippi
+28019,37203.0,Choctaw,Mississippi
+28021,26732.0,Claiborne,Mississippi
+28023,39246.0,Clarke,Mississippi
+28025,35121.0,Clay,Mississippi
+28027,30009.0,Coahoma,Mississippi
+28029,40361.0,Copiah,Mississippi
+28031,35931.0,Covington,Mississippi
+28033,65169.0,DeSoto,Mississippi
+28035,40675.0,Forrest,Mississippi
+28037,40810.0,Franklin,Mississippi
+28039,48319.0,George,Mississippi
+28041,49447.0,Greene,Mississippi
+28043,36877.0,Grenada,Mississippi
+28045,47543.0,Hancock,Mississippi
+28047,45566.0,Harrison,Mississippi
+28049,43005.0,Hinds,Mississippi
+28051,21093.0,Holmes,Mississippi
+28053,28507.0,Humphreys,Mississippi
+28055,25776.0,Issaquena,Mississippi
+28057,40510.0,Itawamba,Mississippi
+28059,51142.0,Jackson,Mississippi
+28061,35931.0,Jasper,Mississippi
+28063,20188.0,Jefferson,Mississippi
+28065,30083.0,Jefferson Davis,Mississippi
+28067,41263.0,Jones,Mississippi
+28069,28176.0,Kemper,Mississippi
+28071,47132.0,Lafayette,Mississippi
+28073,58188.0,Lamar,Mississippi
+28075,41704.0,Lauderdale,Mississippi
+28077,42290.0,Lawrence,Mississippi
+28079,33482.0,Leake,Mississippi
+28081,47978.0,Lee,Mississippi
+28083,26052.0,Leflore,Mississippi
+28085,40355.0,Lincoln,Mississippi
+28087,45355.0,Lowndes,Mississippi
+28089,71690.0,Madison,Mississippi
+28091,31446.0,Marion,Mississippi
+28093,41572.0,Marshall,Mississippi
+28095,40940.0,Monroe,Mississippi
+28097,33667.0,Montgomery,Mississippi
+28099,36875.0,Neshoba,Mississippi
+28101,33831.0,Newton,Mississippi
+28103,36000.0,Noxubee,Mississippi
+28105,38800.0,Oktibbeha,Mississippi
+28107,36563.0,Panola,Mississippi
+28109,45820.0,Pearl River,Mississippi
+28111,39007.0,Perry,Mississippi
+28113,30910.0,Pike,Mississippi
+28115,41379.0,Pontotoc,Mississippi
+28117,37519.0,Prentiss,Mississippi
+28119,25510.0,Quitman,Mississippi
+28121,64557.0,Rankin,Mississippi
+28123,33735.0,Scott,Mississippi
+28125,28799.0,Sharkey,Mississippi
+28127,37946.0,Simpson,Mississippi
+28129,41657.0,Smith,Mississippi
+28131,44883.0,Stone,Mississippi
+28133,30029.0,Sunflower,Mississippi
+28135,30028.0,Tallahatchie,Mississippi
+28137,51056.0,Tate,Mississippi
+28139,39839.0,Tippah,Mississippi
+28141,37312.0,Tishomingo,Mississippi
+28143,37822.0,Tunica,Mississippi
+28145,41287.0,Union,Mississippi
+28147,29804.0,Walthall,Mississippi
+28149,43039.0,Warren,Mississippi
+28151,30834.0,Washington,Mississippi
+28153,37970.0,Wayne,Mississippi
+28155,40683.0,Webster,Mississippi
+28157,26599.0,Wilkinson,Mississippi
+28159,36214.0,Winston,Mississippi
+28161,41864.0,Yalobusha,Mississippi
+28163,31402.0,Yazoo,Mississippi
+29001,40046.0,Adair,Missouri
+29003,55683.0,Andrew,Missouri
+29005,48385.0,Atchison,Missouri
+29007,43761.0,Audrain,Missouri
+29009,41463.0,Barry,Missouri
+29011,41625.0,Barton,Missouri
+29013,46186.0,Bates,Missouri
+29015,38028.0,Benton,Missouri
+29017,42985.0,Bollinger,Missouri
+29019,54043.0,Boone,Missouri
+29021,50457.0,Buchanan,Missouri
+29023,39058.0,Butler,Missouri
+29025,48033.0,Caldwell,Missouri
+29027,55376.0,Callaway,Missouri
+29029,52087.0,Camden,Missouri
+29031,51730.0,Cape Girardeau,Missouri
+29033,42149.0,Carroll,Missouri
+29035,39415.0,Carter,Missouri
+29037,67659.0,Cass,Missouri
+29039,39412.0,Cedar,Missouri
+29041,46992.0,Chariton,Missouri
+29043,57019.0,Christian,Missouri
+29045,47955.0,Clark,Missouri
+29047,68367.0,Clay,Missouri
+29049,58510.0,Clinton,Missouri
+29051,57587.0,Cole,Missouri
+29053,48750.0,Cooper,Missouri
+29055,38036.0,Crawford,Missouri
+29057,39979.0,Dade,Missouri
+29059,41551.0,Dallas,Missouri
+29061,50380.0,Daviess,Missouri
+29063,50000.0,DeKalb,Missouri
+29065,39916.0,Dent,Missouri
+29067,34372.0,Douglas,Missouri
+29069,34186.0,Dunklin,Missouri
+29071,55312.0,Franklin,Missouri
+29073,53439.0,Gasconade,Missouri
+29075,42689.0,Gentry,Missouri
+29077,44808.0,Greene,Missouri
+29079,42574.0,Grundy,Missouri
+29081,40168.0,Harrison,Missouri
+29083,43911.0,Henry,Missouri
+29085,36190.0,Hickory,Missouri
+29087,45610.0,Holt,Missouri
+29089,50372.0,Howard,Missouri
+29091,36143.0,Howell,Missouri
+29093,37188.0,Iron,Missouri
+29095,52805.0,Jackson,Missouri
+29097,46929.0,Jasper,Missouri
+29099,63030.0,Jefferson,Missouri
+29101,53056.0,Johnson,Missouri
+29103,40383.0,Knox,Missouri
+29105,46192.0,Laclede,Missouri
+29107,54661.0,Lafayette,Missouri
+29109,43373.0,Lawrence,Missouri
+29111,47764.0,Lewis,Missouri
+29113,61628.0,Lincoln,Missouri
+29115,43642.0,Linn,Missouri
+29117,47885.0,Livingston,Missouri
+29119,42019.0,McDonald,Missouri
+29121,40007.0,Macon,Missouri
+29123,41322.0,Madison,Missouri
+29125,44436.0,Maries,Missouri
+29127,46762.0,Marion,Missouri
+29129,44085.0,Mercer,Missouri
+29131,42718.0,Miller,Missouri
+29133,32846.0,Mississippi,Missouri
+29135,54828.0,Moniteau,Missouri
+29137,43973.0,Monroe,Missouri
+29139,45862.0,Montgomery,Missouri
+29141,37727.0,Morgan,Missouri
+29143,35399.0,New Madrid,Missouri
+29145,49023.0,Newton,Missouri
+29147,43349.0,Nodaway,Missouri
+29149,32534.0,Oregon,Missouri
+29151,58476.0,Osage,Missouri
+29153,32601.0,Ozark,Missouri
+29155,33390.0,Pemiscot,Missouri
+29157,54964.0,Perry,Missouri
+29159,44382.0,Pettis,Missouri
+29161,42846.0,Phelps,Missouri
+29163,45753.0,Pike,Missouri
+29165,76912.0,Platte,Missouri
+29167,44892.0,Polk,Missouri
+29169,51665.0,Pulaski,Missouri
+29171,37367.0,Putnam,Missouri
+29173,55546.0,Ralls,Missouri
+29175,46610.0,Randolph,Missouri
+29177,59857.0,Ray,Missouri
+29179,40929.0,Reynolds,Missouri
+29181,33343.0,Ripley,Missouri
+29183,81411.0,St. Charles,Missouri
+29185,38470.0,St. Clair,Missouri
+29186,56234.0,Ste. Genevieve,Missouri
+29187,45774.0,St. Francois,Missouri
+29189,65300.0,St. Louis,Missouri
+29195,43201.0,Saline,Missouri
+29197,39697.0,Schuyler,Missouri
+29199,42965.0,Scotland,Missouri
+29201,42231.0,Scott,Missouri
+29203,32180.0,Shannon,Missouri
+29205,44051.0,Shelby,Missouri
+29207,40567.0,Stoddard,Missouri
+29209,46443.0,Stone,Missouri
+29211,42604.0,Sullivan,Missouri
+29213,41487.0,Taney,Missouri
+29215,35277.0,Texas,Missouri
+29217,43379.0,Vernon,Missouri
+29219,57948.0,Warren,Missouri
+29221,39621.0,Washington,Missouri
+29223,34391.0,Wayne,Missouri
+29225,47421.0,Webster,Missouri
+29227,52500.0,Worth,Missouri
+29229,32752.0,Wright,Missouri
+29510,41107.0,St. Louis city,Missouri
+30001,44809.0,Beaverhead,Montana
+30003,46365.0,Big Horn,Montana
+30005,38083.0,Blaine,Montana
+30007,56469.0,Broadwater,Montana
+30009,57538.0,Carbon,Montana
+30011,44196.0,Carter,Montana
+30013,48160.0,Cascade,Montana
+30015,40942.0,Chouteau,Montana
+30017,55841.0,Custer,Montana
+30019,54750.0,Daniels,Montana
+30021,59820.0,Dawson,Montana
+30023,41783.0,Deer Lodge,Montana
+30025,60750.0,Fallon,Montana
+30027,50327.0,Fergus,Montana
+30029,52966.0,Flathead,Montana
+30031,61499.0,Gallatin,Montana
+30033,45893.0,Garfield,Montana
+30035,31029.0,Glacier,Montana
+30037,39952.0,Golden Valley,Montana
+30039,48958.0,Granite,Montana
+30041,47141.0,Hill,Montana
+30043,66867.0,Jefferson,Montana
+30045,45764.0,Judith Basin,Montana
+30047,45488.0,Lake,Montana
+30049,62130.0,Lewis and Clark,Montana
+30051,47419.0,Liberty,Montana
+30053,38287.0,Lincoln,Montana
+30055,47500.0,McCone,Montana
+30057,50247.0,Madison,Montana
+30059,43109.0,Meagher,Montana
+30061,41905.0,Mineral,Montana
+30063,51270.0,Missoula,Montana
+30065,41612.0,Musselshell,Montana
+30067,49194.0,Park,Montana
+30069,44688.0,Petroleum,Montana
+30071,46222.0,Phillips,Montana
+30073,45458.0,Pondera,Montana
+30075,52457.0,Powder River,Montana
+30077,49652.0,Powell,Montana
+30079,47250.0,Prairie,Montana
+30081,48930.0,Ravalli,Montana
+30083,67272.0,Richland,Montana
+30085,42904.0,Roosevelt,Montana
+30087,56549.0,Rosebud,Montana
+30089,36984.0,Sanders,Montana
+30091,54321.0,Sheridan,Montana
+30093,42237.0,Silver Bow,Montana
+30095,63785.0,Stillwater,Montana
+30097,49514.0,Sweet Grass,Montana
+30099,51862.0,Teton,Montana
+30101,46823.0,Toole,Montana
+30103,42292.0,Treasure,Montana
+30105,55882.0,Valley,Montana
+30107,41186.0,Wheatland,Montana
+30109,50202.0,Wibaux,Montana
+30111,59117.0,Yellowstone,Montana
+31001,51536.0,Adams,Nebraska
+31003,48716.0,Antelope,Nebraska
+31005,43854.0,Arthur,Nebraska
+31007,59625.0,Banner,Nebraska
+31009,50870.0,Blaine,Nebraska
+31011,54063.0,Boone,Nebraska
+31013,56412.0,Box Butte,Nebraska
+31015,50729.0,Boyd,Nebraska
+31017,41550.0,Brown,Nebraska
+31019,56952.0,Buffalo,Nebraska
+31021,51482.0,Burt,Nebraska
+31023,55562.0,Butler,Nebraska
+31025,71139.0,Cass,Nebraska
+31027,58978.0,Cedar,Nebraska
+31029,55833.0,Chase,Nebraska
+31031,53684.0,Cherry,Nebraska
+31033,56538.0,Cheyenne,Nebraska
+31035,56316.0,Clay,Nebraska
+31037,56528.0,Colfax,Nebraska
+31039,55190.0,Cuming,Nebraska
+31041,49891.0,Custer,Nebraska
+31043,55017.0,Dakota,Nebraska
+31045,51748.0,Dawes,Nebraska
+31047,53769.0,Dawson,Nebraska
+31049,48500.0,Deuel,Nebraska
+31051,56775.0,Dixon,Nebraska
+31053,53101.0,Dodge,Nebraska
+31055,61688.0,Douglas,Nebraska
+31057,44350.0,Dundy,Nebraska
+31059,55625.0,Fillmore,Nebraska
+31061,49235.0,Franklin,Nebraska
+31063,51855.0,Frontier,Nebraska
+31065,47989.0,Furnas,Nebraska
+31067,51662.0,Gage,Nebraska
+31069,44471.0,Garden,Nebraska
+31071,48545.0,Garfield,Nebraska
+31073,62545.0,Gosper,Nebraska
+31075,39479.0,Grant,Nebraska
+31077,47128.0,Greeley,Nebraska
+31079,54742.0,Hall,Nebraska
+31081,64042.0,Hamilton,Nebraska
+31083,50344.0,Harlan,Nebraska
+31085,45515.0,Hayes,Nebraska
+31087,42902.0,Hitchcock,Nebraska
+31089,57468.0,Holt,Nebraska
+31091,39115.0,Hooker,Nebraska
+31093,54399.0,Howard,Nebraska
+31095,43295.0,Jefferson,Nebraska
+31097,52794.0,Johnson,Nebraska
+31099,56952.0,Kearney,Nebraska
+31101,48901.0,Keith,Nebraska
+31103,49688.0,Keya Paha,Nebraska
+31105,43856.0,Kimball,Nebraska
+31107,49752.0,Knox,Nebraska
+31109,58009.0,Lancaster,Nebraska
+31111,56794.0,Lincoln,Nebraska
+31113,51607.0,Logan,Nebraska
+31115,53125.0,Loup,Nebraska
+31117,48882.0,McPherson,Nebraska
+31119,52857.0,Madison,Nebraska
+31121,54197.0,Merrick,Nebraska
+31123,45121.0,Morrill,Nebraska
+31125,45833.0,Nance,Nebraska
+31127,51922.0,Nemaha,Nebraska
+31129,42049.0,Nuckolls,Nebraska
+31131,54828.0,Otoe,Nebraska
+31133,46314.0,Pawnee,Nebraska
+31135,62469.0,Perkins,Nebraska
+31137,57241.0,Phelps,Nebraska
+31139,56620.0,Pierce,Nebraska
+31141,62617.0,Platte,Nebraska
+31143,61962.0,Polk,Nebraska
+31145,46859.0,Red Willow,Nebraska
+31147,48096.0,Richardson,Nebraska
+31149,52604.0,Rock,Nebraska
+31151,51143.0,Saline,Nebraska
+31153,79549.0,Sarpy,Nebraska
+31155,66718.0,Saunders,Nebraska
+31157,50157.0,Scotts Bluff,Nebraska
+31159,67591.0,Seward,Nebraska
+31161,41719.0,Sheridan,Nebraska
+31163,51172.0,Sherman,Nebraska
+31165,46875.0,Sioux,Nebraska
+31167,62687.0,Stanton,Nebraska
+31169,50734.0,Thayer,Nebraska
+31171,50682.0,Thomas,Nebraska
+31173,48149.0,Thurston,Nebraska
+31175,55170.0,Valley,Nebraska
+31177,70753.0,Washington,Nebraska
+31179,62623.0,Wayne,Nebraska
+31181,42298.0,Webster,Nebraska
+31183,52083.0,Wheeler,Nebraska
+31185,59779.0,York,Nebraska
+32001,51514.0,Churchill,Nevada
+32003,56802.0,Clark,Nevada
+32005,62503.0,Douglas,Nevada
+32007,77209.0,Elko,Nevada
+32009,40000.0,Esmeralda,Nevada
+32011,77625.0,Eureka,Nevada
+32013,70373.0,Humboldt,Nevada
+32015,93583.0,Lander,Nevada
+32017,56414.0,Lincoln,Nevada
+32019,55493.0,Lyon,Nevada
+32021,41163.0,Mineral,Nevada
+32023,45711.0,Nye,Nevada
+32027,50846.0,Pershing,Nevada
+32029,62284.0,Storey,Nevada
+32031,61155.0,Washoe,Nevada
+32033,62993.0,White Pine,Nevada
+32510,52034.0,Carson City,Nevada
+33001,68368.0,Belknap,New Hampshire
+33003,61116.0,Carroll,New Hampshire
+33005,63057.0,Cheshire,New Hampshire
+33007,45696.0,Coos,New Hampshire
+33009,63153.0,Grafton,New Hampshire
+33011,78655.0,Hillsborough,New Hampshire
+33013,72478.0,Merrimack,New Hampshire
+33015,90429.0,Rockingham,New Hampshire
+33017,70650.0,Strafford,New Hampshire
+33019,60780.0,Sullivan,New Hampshire
+34001,59989.0,Atlantic,New Jersey
+34003,95837.0,Bergen,New Jersey
+34005,84992.0,Burlington,New Jersey
+34007,67118.0,Camden,New Jersey
+34009,63690.0,Cape May,New Jersey
+34011,52593.0,Cumberland,New Jersey
+34013,59302.0,Essex,New Jersey
+34015,85160.0,Gloucester,New Jersey
+34017,66289.0,Hudson,New Jersey
+34019,112535.0,Hunterdon,New Jersey
+34021,79990.0,Mercer,New Jersey
+34023,85954.0,Middlesex,New Jersey
+34025,95699.0,Monmouth,New Jersey
+34027,111316.0,Morris,New Jersey
+34029,68021.0,Ocean,New Jersey
+34031,66476.0,Passaic,New Jersey
+34033,64309.0,Salem,New Jersey
+34035,111772.0,Somerset,New Jersey
+34037,90520.0,Sussex,New Jersey
+34039,77095.0,Union,New Jersey
+34041,78145.0,Warren,New Jersey
+35001,51643.0,Bernalillo,New Mexico
+35003,42480.0,Catron,New Mexico
+35005,43197.0,Chaves,New Mexico
+35006,37368.0,Cibola,New Mexico
+35007,33783.0,Colfax,New Mexico
+35009,46182.0,Curry,New Mexico
+35011,31028.0,De Baca,New Mexico
+35013,39164.0,Do�a Ana,New Mexico
+35015,62982.0,Eddy,New Mexico
+35017,37880.0,Grant,New Mexico
+35019,24085.0,Guadalupe,New Mexico
+35021,30875.0,Harding,New Mexico
+35023,36339.0,Hidalgo,New Mexico
+35025,59797.0,Lea,New Mexico
+35027,42267.0,Lincoln,New Mexico
+35028,115248.0,Los Alamos,New Mexico
+35029,27377.0,Luna,New Mexico
+35031,31674.0,McKinley,New Mexico
+35033,26968.0,Mora,New Mexico
+35035,42752.0,Otero,New Mexico
+35037,27075.0,Quay,New Mexico
+35039,33422.0,Rio Arriba,New Mexico
+35041,40775.0,Roosevelt,New Mexico
+35043,59420.0,Sandoval,New Mexico
+35045,50582.0,San Juan,New Mexico
+35047,31660.0,San Miguel,New Mexico
+35049,59192.0,Santa Fe,New Mexico
+35051,30451.0,Sierra,New Mexico
+35053,36146.0,Socorro,New Mexico
+35055,36758.0,Taos,New Mexico
+35057,37218.0,Torrance,New Mexico
+35059,37936.0,Union,New Mexico
+35061,45084.0,Valencia,New Mexico
+36001,64535.0,Albany,New York
+36003,47033.0,Allegany,New York
+36005,38085.0,Bronx,New York
+36007,50859.0,Broome,New York
+36009,47240.0,Cattaraugus,New York
+36011,56579.0,Cayuga,New York
+36013,45332.0,Chautauqua,New York
+36015,53299.0,Chemung,New York
+36017,50595.0,Chenango,New York
+36019,55178.0,Clinton,New York
+36021,63032.0,Columbia,New York
+36023,54489.0,Cortland,New York
+36025,48827.0,Delaware,New York
+36027,78028.0,Dutchess,New York
+36029,55673.0,Erie,New York
+36031,56196.0,Essex,New York
+36033,51696.0,Franklin,New York
+36035,50248.0,Fulton,New York
+36037,59338.0,Genesee,New York
+36039,53617.0,Greene,New York
+36041,57552.0,Hamilton,New York
+36043,51862.0,Herkimer,New York
+36045,52268.0,Jefferson,New York
+36047,56015.0,Kings,New York
+36049,52380.0,Lewis,New York
+36051,56071.0,Livingston,New York
+36053,60228.0,Madison,New York
+36055,57479.0,Monroe,New York
+36057,45837.0,Montgomery,New York
+36059,111240.0,Nassau,New York
+36061,82459.0,New York,New York
+36063,54085.0,Niagara,New York
+36065,53844.0,Oneida,New York
+36067,59225.0,Onondaga,New York
+36069,63359.0,Ontario,New York
+36071,76716.0,Orange,New York
+36073,51843.0,Orleans,New York
+36075,53597.0,Oswego,New York
+36077,53121.0,Otsego,New York
+36079,102186.0,Putnam,New York
+36081,64987.0,Queens,New York
+36083,65851.0,Rensselaer,New York
+36085,79267.0,Richmond,New York
+36087,91108.0,Rockland,New York
+36089,49305.0,St. Lawrence,New York
+36091,80839.0,Saratoga,New York
+36093,63785.0,Schenectady,New York
+36095,53989.0,Schoharie,New York
+36097,51479.0,Schuyler,New York
+36099,54695.0,Seneca,New York
+36101,51789.0,Steuben,New York
+36103,96675.0,Suffolk,New York
+36105,56256.0,Sullivan,New York
+36107,60736.0,Tioga,New York
+36109,58743.0,Tompkins,New York
+36111,63348.0,Ulster,New York
+36113,59813.0,Warren,New York
+36115,54114.0,Washington,New York
+36117,55765.0,Wayne,New York
+36119,92758.0,Westchester,New York
+36121,57914.0,Wyoming,New York
+36123,54343.0,Yates,New York
+37001,45735.0,Alamance,North Carolina
+37003,44961.0,Alexander,North Carolina
+37005,37558.0,Alleghany,North Carolina
+37007,39126.0,Anson,North Carolina
+37009,40978.0,Ashe,North Carolina
+37011,38134.0,Avery,North Carolina
+37013,43688.0,Beaufort,North Carolina
+37015,33143.0,Bertie,North Carolina
+37017,32378.0,Bladen,North Carolina
+37019,54406.0,Brunswick,North Carolina
+37021,50668.0,Buncombe,North Carolina
+37023,42516.0,Burke,North Carolina
+37025,64174.0,Cabarrus,North Carolina
+37027,42072.0,Caldwell,North Carolina
+37029,63349.0,Camden,North Carolina
+37031,54428.0,Carteret,North Carolina
+37033,43961.0,Caswell,North Carolina
+37035,51157.0,Catawba,North Carolina
+37037,63531.0,Chatham,North Carolina
+37039,40294.0,Cherokee,North Carolina
+37041,42621.0,Chowan,North Carolina
+37043,38801.0,Clay,North Carolina
+37045,40393.0,Cleveland,North Carolina
+37047,36398.0,Columbus,North Carolina
+37049,50870.0,Craven,North Carolina
+37051,45716.0,Cumberland,North Carolina
+37053,66284.0,Currituck,North Carolina
+37055,58012.0,Dare,North Carolina
+37057,47271.0,Davidson,North Carolina
+37059,57611.0,Davie,North Carolina
+37061,38850.0,Duplin,North Carolina
+37063,58190.0,Durham,North Carolina
+37065,35516.0,Edgecombe,North Carolina
+37067,50128.0,Forsyth,North Carolina
+37069,53175.0,Franklin,North Carolina
+37071,49384.0,Gaston,North Carolina
+37073,52205.0,Gates,North Carolina
+37075,36525.0,Graham,North Carolina
+37077,55628.0,Granville,North Carolina
+37079,38306.0,Greene,North Carolina
+37081,51072.0,Guilford,North Carolina
+37083,34251.0,Halifax,North Carolina
+37085,51630.0,Harnett,North Carolina
+37087,49800.0,Haywood,North Carolina
+37089,52815.0,Henderson,North Carolina
+37091,37005.0,Hertford,North Carolina
+37093,47535.0,Hoke,North Carolina
+37095,45466.0,Hyde,North Carolina
+37097,58198.0,Iredell,North Carolina
+37099,44028.0,Jackson,North Carolina
+37101,56842.0,Johnston,North Carolina
+37103,36892.0,Jones,North Carolina
+37105,48873.0,Lee,North Carolina
+37107,38387.0,Lenoir,North Carolina
+37109,53318.0,Lincoln,North Carolina
+37111,40913.0,McDowell,North Carolina
+37113,43597.0,Macon,North Carolina
+37115,42410.0,Madison,North Carolina
+37117,39205.0,Martin,North Carolina
+37119,64312.0,Mecklenburg,North Carolina
+37121,44186.0,Mitchell,North Carolina
+37123,42346.0,Montgomery,North Carolina
+37125,57899.0,Moore,North Carolina
+37127,48362.0,Nash,North Carolina
+37129,52716.0,New Hanover,North Carolina
+37131,35499.0,Northampton,North Carolina
+37133,49491.0,Onslow,North Carolina
+37135,68211.0,Orange,North Carolina
+37137,44947.0,Pamlico,North Carolina
+37139,48279.0,Pasquotank,North Carolina
+37141,52989.0,Pender,North Carolina
+37143,45915.0,Perquimans,North Carolina
+37145,48811.0,Person,North Carolina
+37147,44315.0,Pitt,North Carolina
+37149,48834.0,Polk,North Carolina
+37151,45006.0,Randolph,North Carolina
+37153,36091.0,Richmond,North Carolina
+37155,33679.0,Robeson,North Carolina
+37157,42490.0,Rockingham,North Carolina
+37159,48667.0,Rowan,North Carolina
+37161,40347.0,Rutherford,North Carolina
+37163,39068.0,Sampson,North Carolina
+37165,35617.0,Scotland,North Carolina
+37167,49590.0,Stanly,North Carolina
+37169,46169.0,Stokes,North Carolina
+37171,41068.0,Surry,North Carolina
+37173,36773.0,Swain,North Carolina
+37175,46629.0,Transylvania,North Carolina
+37177,35472.0,Tyrrell,North Carolina
+37179,75397.0,Union,North Carolina
+37181,37282.0,Vance,North Carolina
+37183,76956.0,Wake,North Carolina
+37185,35962.0,Warren,North Carolina
+37187,35512.0,Washington,North Carolina
+37189,45268.0,Watauga,North Carolina
+37191,42192.0,Wayne,North Carolina
+37193,40829.0,Wilkes,North Carolina
+37195,42850.0,Wilson,North Carolina
+37197,42876.0,Yadkin,North Carolina
+37199,39888.0,Yancey,North Carolina
+38001,54875.0,Adams,North Dakota
+38003,57064.0,Barnes,North Dakota
+38005,44313.0,Benson,North Dakota
+38007,92604.0,Billings,North Dakota
+38009,59882.0,Bottineau,North Dakota
+38011,65063.0,Bowman,North Dakota
+38013,74931.0,Burke,North Dakota
+38015,69719.0,Burleigh,North Dakota
+38017,62031.0,Cass,North Dakota
+38019,67591.0,Cavalier,North Dakota
+38021,60918.0,Dickey,North Dakota
+38023,60074.0,Divide,North Dakota
+38025,70500.0,Dunn,North Dakota
+38027,51563.0,Eddy,North Dakota
+38029,51029.0,Emmons,North Dakota
+38031,60613.0,Foster,North Dakota
+38033,56087.0,Golden Valley,North Dakota
+38035,51951.0,Grand Forks,North Dakota
+38037,50962.0,Grant,North Dakota
+38039,52794.0,Griggs,North Dakota
+38041,56761.0,Hettinger,North Dakota
+38043,57734.0,Kidder,North Dakota
+38045,59426.0,LaMoure,North Dakota
+38047,58144.0,Logan,North Dakota
+38049,62637.0,McHenry,North Dakota
+38051,50739.0,McIntosh,North Dakota
+38053,80732.0,McKenzie,North Dakota
+38055,65648.0,McLean,North Dakota
+38057,79890.0,Mercer,North Dakota
+38059,67584.0,Morton,North Dakota
+38061,70678.0,Mountrail,North Dakota
+38063,48798.0,Nelson,North Dakota
+38065,68333.0,Oliver,North Dakota
+38067,64962.0,Pembina,North Dakota
+38069,48802.0,Pierce,North Dakota
+38071,57313.0,Ramsey,North Dakota
+38073,61810.0,Ransom,North Dakota
+38075,68182.0,Renville,North Dakota
+38077,61990.0,Richland,North Dakota
+38079,39884.0,Rolette,North Dakota
+38081,67200.0,Sargent,North Dakota
+38083,49261.0,Sheridan,North Dakota
+38085,40862.0,Sioux,North Dakota
+38087,63942.0,Slope,North Dakota
+38089,75708.0,Stark,North Dakota
+38091,65848.0,Steele,North Dakota
+38093,57642.0,Stutsman,North Dakota
+38095,53696.0,Towner,North Dakota
+38097,62870.0,Traill,North Dakota
+38099,54414.0,Walsh,North Dakota
+38101,67753.0,Ward,North Dakota
+38103,57989.0,Wells,North Dakota
+38105,86575.0,Williams,North Dakota
+39001,36894.0,Adams,Ohio
+39003,50552.0,Allen,Ohio
+39005,52730.0,Ashland,Ohio
+39007,44823.0,Ashtabula,Ohio
+39009,37778.0,Athens,Ohio
+39011,61758.0,Auglaize,Ohio
+39013,49361.0,Belmont,Ohio
+39015,52356.0,Brown,Ohio
+39017,63358.0,Butler,Ohio
+39019,52394.0,Carroll,Ohio
+39021,57103.0,Champaign,Ohio
+39023,48502.0,Clark,Ohio
+39025,64822.0,Clermont,Ohio
+39027,51354.0,Clinton,Ohio
+39029,46306.0,Columbiana,Ohio
+39031,44491.0,Coshocton,Ohio
+39033,42892.0,Crawford,Ohio
+39035,48435.0,Cuyahoga,Ohio
+39037,52691.0,Darke,Ohio
+39039,57665.0,Defiance,Ohio
+39041,104322.0,Delaware,Ohio
+39043,52270.0,Erie,Ohio
+39045,66175.0,Fairfield,Ohio
+39047,46478.0,Fayette,Ohio
+39049,58762.0,Franklin,Ohio
+39051,60231.0,Fulton,Ohio
+39053,42113.0,Gallia,Ohio
+39055,79956.0,Geauga,Ohio
+39057,67109.0,Greene,Ohio
+39059,43975.0,Guernsey,Ohio
+39061,54976.0,Hamilton,Ohio
+39063,55644.0,Hancock,Ohio
+39065,48773.0,Hardin,Ohio
+39067,48462.0,Harrison,Ohio
+39069,59083.0,Henry,Ohio
+39071,43297.0,Highland,Ohio
+39073,50000.0,Hocking,Ohio
+39075,62111.0,Holmes,Ohio
+39077,51559.0,Huron,Ohio
+39079,45340.0,Jackson,Ohio
+39081,44819.0,Jefferson,Ohio
+39083,55131.0,Knox,Ohio
+39085,63475.0,Lake,Ohio
+39087,44372.0,Lawrence,Ohio
+39089,62715.0,Licking,Ohio
+39091,55150.0,Logan,Ohio
+39093,56965.0,Lorain,Ohio
+39095,46924.0,Lucas,Ohio
+39097,65264.0,Madison,Ohio
+39099,44682.0,Mahoning,Ohio
+39101,45464.0,Marion,Ohio
+39103,74243.0,Medina,Ohio
+39105,43591.0,Meigs,Ohio
+39107,59417.0,Mercer,Ohio
+39109,57544.0,Miami,Ohio
+39111,43956.0,Monroe,Ohio
+39113,49314.0,Montgomery,Ohio
+39115,41731.0,Morgan,Ohio
+39117,56010.0,Morrow,Ohio
+39119,45276.0,Muskingum,Ohio
+39121,47456.0,Noble,Ohio
+39123,57918.0,Ottawa,Ohio
+39125,51933.0,Paulding,Ohio
+39127,48811.0,Perry,Ohio
+39129,62214.0,Pickaway,Ohio
+39131,43729.0,Pike,Ohio
+39133,56618.0,Portage,Ohio
+39135,55374.0,Preble,Ohio
+39137,62001.0,Putnam,Ohio
+39139,47346.0,Richland,Ohio
+39141,48403.0,Ross,Ohio
+39143,51701.0,Sandusky,Ohio
+39145,39731.0,Scioto,Ohio
+39147,49936.0,Seneca,Ohio
+39149,61042.0,Shelby,Ohio
+39151,52190.0,Stark,Ohio
+39153,55448.0,Summit,Ohio
+39155,45975.0,Trumbull,Ohio
+39157,51170.0,Tuscarawas,Ohio
+39159,82775.0,Union,Ohio
+39161,52754.0,Van Wert,Ohio
+39163,42114.0,Vinton,Ohio
+39165,83330.0,Warren,Ohio
+39167,48572.0,Washington,Ohio
+39169,56348.0,Wayne,Ohio
+39171,49491.0,Williams,Ohio
+39173,59789.0,Wood,Ohio
+39175,52940.0,Wyandot,Ohio
+40001,32986.0,Adair,Oklahoma
+40003,59569.0,Alfalfa,Oklahoma
+40005,38821.0,Atoka,Oklahoma
+40007,51996.0,Beaver,Oklahoma
+40009,48725.0,Beckham,Oklahoma
+40011,50391.0,Blaine,Oklahoma
+40013,43245.0,Bryan,Oklahoma
+40015,44588.0,Caddo,Oklahoma
+40017,71157.0,Canadian,Oklahoma
+40019,49216.0,Carter,Oklahoma
+40021,40936.0,Cherokee,Oklahoma
+40023,32129.0,Choctaw,Oklahoma
+40025,46071.0,Cimarron,Oklahoma
+40027,62863.0,Cleveland,Oklahoma
+40029,40000.0,Coal,Oklahoma
+40031,52227.0,Comanche,Oklahoma
+40033,51623.0,Cotton,Oklahoma
+40035,41701.0,Craig,Oklahoma
+40037,49578.0,Creek,Oklahoma
+40039,48884.0,Custer,Oklahoma
+40041,39742.0,Delaware,Oklahoma
+40043,50037.0,Dewey,Oklahoma
+40045,52705.0,Ellis,Oklahoma
+40047,51332.0,Garfield,Oklahoma
+40049,45066.0,Garvin,Oklahoma
+40051,58177.0,Grady,Oklahoma
+40053,56287.0,Grant,Oklahoma
+40055,38322.0,Greer,Oklahoma
+40057,41607.0,Harmon,Oklahoma
+40059,50114.0,Harper,Oklahoma
+40061,39375.0,Haskell,Oklahoma
+40063,39265.0,Hughes,Oklahoma
+40065,45757.0,Jackson,Oklahoma
+40067,37319.0,Jefferson,Oklahoma
+40069,40077.0,Johnston,Oklahoma
+40071,45426.0,Kay,Oklahoma
+40073,60656.0,Kingfisher,Oklahoma
+40075,38209.0,Kiowa,Oklahoma
+40077,42363.0,Latimer,Oklahoma
+40079,39769.0,Le Flore,Oklahoma
+40081,49362.0,Lincoln,Oklahoma
+40083,62035.0,Logan,Oklahoma
+40085,52007.0,Love,Oklahoma
+40087,64492.0,McClain,Oklahoma
+40089,35829.0,McCurtain,Oklahoma
+40091,37086.0,McIntosh,Oklahoma
+40093,54118.0,Major,Oklahoma
+40095,45828.0,Marshall,Oklahoma
+40097,48853.0,Mayes,Oklahoma
+40099,51490.0,Murray,Oklahoma
+40101,42689.0,Muskogee,Oklahoma
+40103,53253.0,Noble,Oklahoma
+40105,41895.0,Nowata,Oklahoma
+40107,38527.0,Okfuskee,Oklahoma
+40109,52855.0,Oklahoma,Oklahoma
+40111,42175.0,Okmulgee,Oklahoma
+40113,47789.0,Osage,Oklahoma
+40115,39070.0,Ottawa,Oklahoma
+40117,47413.0,Pawnee,Oklahoma
+40119,40944.0,Payne,Oklahoma
+40121,45346.0,Pittsburg,Oklahoma
+40123,49235.0,Pontotoc,Oklahoma
+40125,47683.0,Pottawatomie,Oklahoma
+40127,37457.0,Pushmataha,Oklahoma
+40129,47667.0,Roger Mills,Oklahoma
+40131,62949.0,Rogers,Oklahoma
+40133,38706.0,Seminole,Oklahoma
+40135,38328.0,Sequoyah,Oklahoma
+40137,46166.0,Stephens,Oklahoma
+40139,50450.0,Texas,Oklahoma
+40141,40462.0,Tillman,Oklahoma
+40143,53902.0,Tulsa,Oklahoma
+40145,61566.0,Wagoner,Oklahoma
+40147,52103.0,Washington,Oklahoma
+40149,52510.0,Washita,Oklahoma
+40151,56899.0,Woods,Oklahoma
+40153,58706.0,Woodward,Oklahoma
+41001,43921.0,Baker,Oregon
+41003,58655.0,Benton,Oregon
+41005,76597.0,Clackamas,Oregon
+41007,52583.0,Clatsop,Oregon
+41009,59714.0,Columbia,Oregon
+41011,43308.0,Coos,Oregon
+41013,44524.0,Crook,Oregon
+41015,46396.0,Curry,Oregon
+41017,63680.0,Deschutes,Oregon
+41019,45812.0,Douglas,Oregon
+41021,42976.0,Gilliam,Oregon
+41023,45357.0,Grant,Oregon
+41025,41797.0,Harney,Oregon
+41027,62935.0,Hood River,Oregon
+41029,50851.0,Jackson,Oregon
+41031,50339.0,Jefferson,Oregon
+41033,43046.0,Josephine,Oregon
+41035,43522.0,Klamath,Oregon
+41037,36627.0,Lake,Oregon
+41039,49958.0,Lane,Oregon
+41041,46061.0,Lincoln,Oregon
+41043,52097.0,Linn,Oregon
+41045,42478.0,Malheur,Oregon
+41047,56097.0,Marion,Oregon
+41049,55440.0,Morrow,Oregon
+41051,64337.0,Multnomah,Oregon
+41053,58344.0,Polk,Oregon
+41055,48056.0,Sherman,Oregon
+41057,47500.0,Tillamook,Oregon
+41059,51887.0,Umatilla,Oregon
+41061,48617.0,Union,Oregon
+41063,44953.0,Wallowa,Oregon
+41065,50973.0,Wasco,Oregon
+41067,78010.0,Washington,Oregon
+41069,33456.0,Wheeler,Oregon
+41071,59484.0,Yamhill,Oregon
+42001,64507.0,Adams,Pennsylvania
+42003,58383.0,Allegheny,Pennsylvania
+42005,49032.0,Armstrong,Pennsylvania
+42007,55828.0,Beaver,Pennsylvania
+42009,49146.0,Bedford,Pennsylvania
+42011,61522.0,Berks,Pennsylvania
+42013,47969.0,Blair,Pennsylvania
+42015,51457.0,Bradford,Pennsylvania
+42017,86055.0,Bucks,Pennsylvania
+42019,68472.0,Butler,Pennsylvania
+42021,45901.0,Cambria,Pennsylvania
+42023,41485.0,Cameron,Pennsylvania
+42025,53624.0,Carbon,Pennsylvania
+42027,58055.0,Centre,Pennsylvania
+42029,96726.0,Chester,Pennsylvania
+42031,45625.0,Clarion,Pennsylvania
+42033,47270.0,Clearfield,Pennsylvania
+42035,49234.0,Clinton,Pennsylvania
+42037,49889.0,Columbia,Pennsylvania
+42039,49144.0,Crawford,Pennsylvania
+42041,68895.0,Cumberland,Pennsylvania
+42043,58916.0,Dauphin,Pennsylvania
+42045,71539.0,Delaware,Pennsylvania
+42047,51112.0,Elk,Pennsylvania
+42049,49716.0,Erie,Pennsylvania
+42051,44476.0,Fayette,Pennsylvania
+42053,38383.0,Forest,Pennsylvania
+42055,59713.0,Franklin,Pennsylvania
+42057,51259.0,Fulton,Pennsylvania
+42059,54121.0,Greene,Pennsylvania
+42061,48597.0,Huntingdon,Pennsylvania
+42063,46877.0,Indiana,Pennsylvania
+42065,46818.0,Jefferson,Pennsylvania
+42067,52765.0,Juniata,Pennsylvania
+42069,50875.0,Lackawanna,Pennsylvania
+42071,63823.0,Lancaster,Pennsylvania
+42073,48860.0,Lawrence,Pennsylvania
+42075,59114.0,Lebanon,Pennsylvania
+42077,62178.0,Lehigh,Pennsylvania
+42079,51646.0,Luzerne,Pennsylvania
+42081,52407.0,Lycoming,Pennsylvania
+42083,46953.0,McKean,Pennsylvania
+42085,48768.0,Mercer,Pennsylvania
+42087,47526.0,Mifflin,Pennsylvania
+42089,63931.0,Monroe,Pennsylvania
+42091,88166.0,Montgomery,Pennsylvania
+42093,57183.0,Montour,Pennsylvania
+42095,67565.0,Northampton,Pennsylvania
+42097,47063.0,Northumberland,Pennsylvania
+42099,62266.0,Perry,Pennsylvania
+42101,43744.0,Philadelphia,Pennsylvania
+42103,64247.0,Pike,Pennsylvania
+42105,42821.0,Potter,Pennsylvania
+42107,49190.0,Schuylkill,Pennsylvania
+42109,57638.0,Snyder,Pennsylvania
+42111,48224.0,Somerset,Pennsylvania
+42113,47346.0,Sullivan,Pennsylvania
+42115,53059.0,Susquehanna,Pennsylvania
+42117,50667.0,Tioga,Pennsylvania
+42119,56026.0,Union,Pennsylvania
+42121,47982.0,Venango,Pennsylvania
+42123,48409.0,Warren,Pennsylvania
+42125,61567.0,Washington,Pennsylvania
+42127,54851.0,Wayne,Pennsylvania
+42129,58866.0,Westmoreland,Pennsylvania
+42131,59308.0,Wyoming,Pennsylvania
+42133,63902.0,York,Pennsylvania
+44001,75578.0,Bristol,Rhode Island
+44003,70223.0,Kent,Rhode Island
+44005,77237.0,Newport,Rhode Island
+44007,55233.0,Providence,Rhode Island
+44009,81301.0,Washington,Rhode Island
+45001,36685.0,Abbeville,South Carolina
+45003,50036.0,Aiken,South Carolina
+45005,24560.0,Allendale,South Carolina
+45007,47906.0,Anderson,South Carolina
+45009,32229.0,Bamberg,South Carolina
+45011,36566.0,Barnwell,South Carolina
+45013,63110.0,Beaufort,South Carolina
+45015,59995.0,Berkeley,South Carolina
+45017,44534.0,Calhoun,South Carolina
+45019,61028.0,Charleston,South Carolina
+45021,35836.0,Cherokee,South Carolina
+45023,40080.0,Chester,South Carolina
+45025,40033.0,Chesterfield,South Carolina
+45027,37525.0,Clarendon,South Carolina
+45029,36276.0,Colleton,South Carolina
+45031,36254.0,Darlington,South Carolina
+45033,29362.0,Dillon,South Carolina
+45035,61698.0,Dorchester,South Carolina
+45037,49200.0,Edgefield,South Carolina
+45039,36294.0,Fairfield,South Carolina
+45041,45479.0,Florence,South Carolina
+45043,48071.0,Georgetown,South Carolina
+45045,56789.0,Greenville,South Carolina
+45047,40982.0,Greenwood,South Carolina
+45049,32453.0,Hampton,South Carolina
+45051,48279.0,Horry,South Carolina
+45053,41930.0,Jasper,South Carolina
+45055,49392.0,Kershaw,South Carolina
+45057,55223.0,Lancaster,South Carolina
+45059,41578.0,Laurens,South Carolina
+45061,31651.0,Lee,South Carolina
+45063,59593.0,Lexington,South Carolina
+45065,42262.0,McCormick,South Carolina
+45067,33046.0,Marion,South Carolina
+45069,34203.0,Marlboro,South Carolina
+45071,42765.0,Newberry,South Carolina
+45073,46056.0,Oconee,South Carolina
+45075,36188.0,Orangeburg,South Carolina
+45077,47024.0,Pickens,South Carolina
+45079,53922.0,Richland,South Carolina
+45081,44486.0,Saluda,South Carolina
+45083,50179.0,Spartanburg,South Carolina
+45085,43792.0,Sumter,South Carolina
+45087,40120.0,Union,South Carolina
+45089,32351.0,Williamsburg,South Carolina
+45091,62431.0,York,South Carolina
+46003,59293.0,Aurora,South Dakota
+46005,51700.0,Beadle,South Dakota
+46007,48348.0,Bennett,South Dakota
+46009,54450.0,Bon Homme,South Dakota
+46011,56370.0,Brookings,South Dakota
+46013,56455.0,Brown,South Dakota
+46015,50839.0,Brule,South Dakota
+46017,32500.0,Buffalo,South Dakota
+46019,44387.0,Butte,South Dakota
+46021,52500.0,Campbell,South Dakota
+46023,46389.0,Charles Mix,South Dakota
+46025,47798.0,Clark,South Dakota
+46027,43189.0,Clay,South Dakota
+46029,54774.0,Codington,South Dakota
+46031,35441.0,Corson,South Dakota
+46033,55472.0,Custer,South Dakota
+46035,47772.0,Davison,South Dakota
+46037,44145.0,Day,South Dakota
+46039,57930.0,Deuel,South Dakota
+46041,43954.0,Dewey,South Dakota
+46043,57419.0,Douglas,South Dakota
+46045,68551.0,Edmunds,South Dakota
+46047,50837.0,Fall River,South Dakota
+46049,53889.0,Faulk,South Dakota
+46051,62532.0,Grant,South Dakota
+46053,44479.0,Gregory,South Dakota
+46055,37420.0,Haakon,South Dakota
+46057,65050.0,Hamlin,South Dakota
+46059,52438.0,Hand,South Dakota
+46061,63036.0,Hanson,South Dakota
+46063,57365.0,Harding,South Dakota
+46065,63564.0,Hughes,South Dakota
+46067,54868.0,Hutchinson,South Dakota
+46069,54891.0,Hyde,South Dakota
+46071,33438.0,Jackson,South Dakota
+46073,49519.0,Jerauld,South Dakota
+46075,41103.0,Jones,South Dakota
+46077,59375.0,Kingsbury,South Dakota
+46079,59232.0,Lake,South Dakota
+46081,52245.0,Lawrence,South Dakota
+46083,81422.0,Lincoln,South Dakota
+46085,53263.0,Lyman,South Dakota
+46087,62234.0,McCook,South Dakota
+46089,43804.0,McPherson,South Dakota
+46091,63594.0,Marshall,South Dakota
+46093,59218.0,Meade,South Dakota
+46095,31222.0,Mellette,South Dakota
+46097,51394.0,Miner,South Dakota
+46099,60028.0,Minnehaha,South Dakota
+46101,58167.0,Moody,South Dakota
+46102,30347.0,Oglala Lakota,South Dakota
+46103,55024.0,Pennington,South Dakota
+46105,56850.0,Perkins,South Dakota
+46107,53600.0,Potter,South Dakota
+46109,50495.0,Roberts,South Dakota
+46111,54899.0,Sanborn,South Dakota
+46115,52729.0,Spink,South Dakota
+46117,71763.0,Stanley,South Dakota
+46119,64028.0,Sully,South Dakota
+46121,24257.0,Todd,South Dakota
+46123,51027.0,Tripp,South Dakota
+46125,55380.0,Turner,South Dakota
+46127,69563.0,Union,South Dakota
+46129,52123.0,Walworth,South Dakota
+46135,54694.0,Yankton,South Dakota
+46137,37143.0,Ziebach,South Dakota
+47001,49376.0,Anderson,Tennessee
+47003,48945.0,Bedford,Tennessee
+47005,33125.0,Benton,Tennessee
+47007,42889.0,Bledsoe,Tennessee
+47009,54140.0,Blount,Tennessee
+47011,48140.0,Bradley,Tennessee
+47013,38170.0,Campbell,Tennessee
+47015,49523.0,Cannon,Tennessee
+47017,40810.0,Carroll,Tennessee
+47019,36589.0,Carter,Tennessee
+47021,58641.0,Cheatham,Tennessee
+47023,45667.0,Chester,Tennessee
+47025,36077.0,Claiborne,Tennessee
+47027,31487.0,Clay,Tennessee
+47029,33614.0,Cocke,Tennessee
+47031,47998.0,Coffee,Tennessee
+47033,42047.0,Crockett,Tennessee
+47035,43893.0,Cumberland,Tennessee
+47037,56507.0,Davidson,Tennessee
+47039,40233.0,Decatur,Tennessee
+47041,44134.0,DeKalb,Tennessee
+47043,50549.0,Dickson,Tennessee
+47045,43762.0,Dyer,Tennessee
+47047,59017.0,Fayette,Tennessee
+47049,35084.0,Fentress,Tennessee
+47051,49038.0,Franklin,Tennessee
+47053,41886.0,Gibson,Tennessee
+47055,47528.0,Giles,Tennessee
+47057,42997.0,Grainger,Tennessee
+47059,40138.0,Greene,Tennessee
+47061,36987.0,Grundy,Tennessee
+47063,42589.0,Hamblen,Tennessee
+47065,53035.0,Hamilton,Tennessee
+47067,28990.0,Hancock,Tennessee
+47069,38651.0,Hardeman,Tennessee
+47071,39798.0,Hardin,Tennessee
+47073,40335.0,Hawkins,Tennessee
+47075,38362.0,Haywood,Tennessee
+47077,42430.0,Henderson,Tennessee
+47079,40837.0,Henry,Tennessee
+47081,41998.0,Hickman,Tennessee
+47083,43964.0,Houston,Tennessee
+47085,41510.0,Humphreys,Tennessee
+47087,36703.0,Jackson,Tennessee
+47089,47264.0,Jefferson,Tennessee
+47091,34151.0,Johnson,Tennessee
+47093,54437.0,Knox,Tennessee
+47095,34966.0,Lake,Tennessee
+47097,37915.0,Lauderdale,Tennessee
+47099,41553.0,Lawrence,Tennessee
+47101,37139.0,Lewis,Tennessee
+47103,45736.0,Lincoln,Tennessee
+47105,56078.0,Loudon,Tennessee
+47107,41398.0,McMinn,Tennessee
+47109,36055.0,McNairy,Tennessee
+47111,36246.0,Macon,Tennessee
+47113,46223.0,Madison,Tennessee
+47115,48024.0,Marion,Tennessee
+47117,49370.0,Marshall,Tennessee
+47119,54249.0,Maury,Tennessee
+47121,43250.0,Meigs,Tennessee
+47123,38327.0,Monroe,Tennessee
+47125,55972.0,Montgomery,Tennessee
+47127,52294.0,Moore,Tennessee
+47129,40166.0,Morgan,Tennessee
+47131,39866.0,Obion,Tennessee
+47133,36558.0,Overton,Tennessee
+47135,34634.0,Perry,Tennessee
+47137,41004.0,Pickett,Tennessee
+47139,41818.0,Polk,Tennessee
+47141,40888.0,Putnam,Tennessee
+47143,39451.0,Rhea,Tennessee
+47145,50003.0,Roane,Tennessee
+47147,61774.0,Robertson,Tennessee
+47149,63846.0,Rutherford,Tennessee
+47151,35453.0,Scott,Tennessee
+47153,51750.0,Sequatchie,Tennessee
+47155,45943.0,Sevier,Tennessee
+47157,49782.0,Shelby,Tennessee
+47159,46404.0,Smith,Tennessee
+47161,42269.0,Stewart,Tennessee
+47163,43442.0,Sullivan,Tennessee
+47165,64631.0,Sumner,Tennessee
+47167,60167.0,Tipton,Tennessee
+47169,52864.0,Trousdale,Tennessee
+47171,39851.0,Unicoi,Tennessee
+47173,41352.0,Union,Tennessee
+47175,37127.0,Van Buren,Tennessee
+47177,37715.0,Warren,Tennessee
+47179,46752.0,Washington,Tennessee
+47181,38634.0,Wayne,Tennessee
+47183,38566.0,Weakley,Tennessee
+47185,40745.0,White,Tennessee
+47187,109026.0,Williamson,Tennessee
+47189,71513.0,Wilson,Tennessee
+48001,43355.0,Anderson,Texas
+48003,74233.0,Andrews,Texas
+48005,47714.0,Angelina,Texas
+48007,44865.0,Aransas,Texas
+48009,64476.0,Archer,Texas
+48011,66563.0,Armstrong,Texas
+48013,55265.0,Atascosa,Texas
+48015,65365.0,Austin,Texas
+48017,46485.0,Bailey,Texas
+48019,53683.0,Bandera,Texas
+48021,62941.0,Bastrop,Texas
+48023,40750.0,Baylor,Texas
+48025,42032.0,Bee,Texas
+48027,54184.0,Bell,Texas
+48029,55456.0,Bexar,Texas
+48031,63071.0,Blanco,Texas
+48033,81985.0,Borden,Texas
+48035,50882.0,Bosque,Texas
+48037,47505.0,Bowie,Texas
+48039,79270.0,Brazoria,Texas
+48041,46839.0,Brazos,Texas
+48043,43894.0,Brewster,Texas
+48045,42647.0,Briscoe,Texas
+48047,27378.0,Brooks,Texas
+48049,45457.0,Brown,Texas
+48051,56235.0,Burleson,Texas
+48053,59238.0,Burnet,Texas
+48055,52278.0,Caldwell,Texas
+48057,55469.0,Calhoun,Texas
+48059,44602.0,Callahan,Texas
+48061,37132.0,Cameron,Texas
+48063,42604.0,Camp,Texas
+48065,70087.0,Carson,Texas
+48067,45345.0,Cass,Texas
+48069,45000.0,Castro,Texas
+48071,76850.0,Chambers,Texas
+48073,46044.0,Cherokee,Texas
+48075,40794.0,Childress,Texas
+48077,51191.0,Clay,Texas
+48079,42798.0,Cochran,Texas
+48081,45551.0,Coke,Texas
+48083,43981.0,Coleman,Texas
+48085,94192.0,Collin,Texas
+48087,42750.0,Collingsworth,Texas
+48089,49504.0,Colorado,Texas
+48091,75356.0,Comal,Texas
+48093,47893.0,Comanche,Texas
+48095,43355.0,Concho,Texas
+48097,57646.0,Cooke,Texas
+48099,51440.0,Coryell,Texas
+48101,34375.0,Cottle,Texas
+48103,70398.0,Crane,Texas
+48105,51152.0,Crockett,Texas
+48107,37899.0,Crosby,Texas
+48109,33417.0,Culberson,Texas
+48111,51250.0,Dallam,Texas
+48113,56854.0,Dallas,Texas
+48115,44657.0,Dawson,Texas
+48117,51841.0,Deaf Smith,Texas
+48119,46138.0,Delta,Texas
+48121,83376.0,Denton,Texas
+48123,53779.0,DeWitt,Texas
+48125,41618.0,Dickens,Texas
+48127,27832.0,Dimmit,Texas
+48129,43224.0,Donley,Texas
+48131,37382.0,Duval,Texas
+48133,35325.0,Eastland,Texas
+48135,60676.0,Ector,Texas
+48137,40313.0,Edwards,Texas
+48139,72213.0,Ellis,Texas
+48141,44597.0,El Paso,Texas
+48143,48819.0,Erath,Texas
+48145,38032.0,Falls,Texas
+48147,50761.0,Fannin,Texas
+48149,56297.0,Fayette,Texas
+48151,46827.0,Fisher,Texas
+48153,48555.0,Floyd,Texas
+48155,46354.0,Foard,Texas
+48157,95561.0,Fort Bend,Texas
+48159,52944.0,Franklin,Texas
+48161,48731.0,Freestone,Texas
+48163,42476.0,Frio,Texas
+48165,59032.0,Gaines,Texas
+48167,69369.0,Galveston,Texas
+48169,55039.0,Garza,Texas
+48171,58325.0,Gillespie,Texas
+48173,75833.0,Glasscock,Texas
+48175,60492.0,Goliad,Texas
+48177,53006.0,Gonzales,Texas
+48179,47170.0,Gray,Texas
+48181,54370.0,Grayson,Texas
+48183,49287.0,Gregg,Texas
+48185,50298.0,Grimes,Texas
+48187,70931.0,Guadalupe,Texas
+48189,47080.0,Hale,Texas
+48191,32921.0,Hall,Texas
+48193,47500.0,Hamilton,Texas
+48195,39229.0,Hansford,Texas
+48197,42238.0,Hardeman,Texas
+48199,59105.0,Hardin,Texas
+48201,60146.0,Harris,Texas
+48203,51202.0,Harrison,Texas
+48205,59280.0,Hartley,Texas
+48207,46013.0,Haskell,Texas
+48209,65935.0,Hays,Texas
+48211,63778.0,Hemphill,Texas
+48213,45798.0,Henderson,Texas
+48215,38398.0,Hidalgo,Texas
+48217,48823.0,Hill,Texas
+48219,48116.0,Hockley,Texas
+48221,59049.0,Hood,Texas
+48223,51877.0,Hopkins,Texas
+48225,34297.0,Houston,Texas
+48227,51528.0,Howard,Texas
+48229,29318.0,Hudspeth,Texas
+48231,51928.0,Hunt,Texas
+48233,50651.0,Hutchinson,Texas
+48235,54706.0,Irion,Texas
+48237,51700.0,Jack,Texas
+48239,60276.0,Jackson,Texas
+48241,46088.0,Jasper,Texas
+48243,53194.0,Jeff Davis,Texas
+48245,48463.0,Jefferson,Texas
+48247,32049.0,Jim Hogg,Texas
+48249,42005.0,Jim Wells,Texas
+48251,62066.0,Johnson,Texas
+48253,45694.0,Jones,Texas
+48255,52252.0,Karnes,Texas
+48257,65390.0,Kaufman,Texas
+48259,82390.0,Kendall,Texas
+48261,36125.0,Kenedy,Texas
+48263,45926.0,Kent,Texas
+48265,52473.0,Kerr,Texas
+48267,42500.0,Kimble,Texas
+48269,65125.0,King,Texas
+48271,31468.0,Kinney,Texas
+48273,42021.0,Kleberg,Texas
+48275,46146.0,Knox,Texas
+48277,43562.0,Lamar,Texas
+48279,43396.0,Lamb,Texas
+48281,58194.0,Lampasas,Texas
+48283,51792.0,La Salle,Texas
+48285,53021.0,Lavaca,Texas
+48287,55000.0,Lee,Texas
+48289,44818.0,Leon,Texas
+48291,49850.0,Liberty,Texas
+48293,42680.0,Limestone,Texas
+48295,57372.0,Lipscomb,Texas
+48297,55766.0,Live Oak,Texas
+48299,52178.0,Llano,Texas
+48301,81875.0,Loving,Texas
+48303,50473.0,Lubbock,Texas
+48305,43524.0,Lynn,Texas
+48307,45329.0,McCulloch,Texas
+48309,48199.0,McLennan,Texas
+48311,68750.0,McMullen,Texas
+48313,49428.0,Madison,Texas
+48315,37283.0,Marion,Texas
+48317,69722.0,Martin,Texas
+48319,40708.0,Mason,Texas
+48321,45500.0,Matagorda,Texas
+48323,38035.0,Maverick,Texas
+48325,61059.0,Medina,Texas
+48327,40606.0,Menard,Texas
+48329,78888.0,Midland,Texas
+48331,47081.0,Milam,Texas
+48333,41827.0,Mills,Texas
+48335,49670.0,Mitchell,Texas
+48337,51774.0,Montague,Texas
+48339,77416.0,Montgomery,Texas
+48341,51527.0,Moore,Texas
+48343,42961.0,Morris,Texas
+48345,43750.0,Motley,Texas
+48347,43598.0,Nacogdoches,Texas
+48349,47920.0,Navarro,Texas
+48351,40950.0,Newton,Texas
+48353,44346.0,Nolan,Texas
+48355,55048.0,Nueces,Texas
+48357,49928.0,Ochiltree,Texas
+48359,63315.0,Oldham,Texas
+48361,55700.0,Orange,Texas
+48363,45979.0,Palo Pinto,Texas
+48365,51569.0,Panola,Texas
+48367,74625.0,Parker,Texas
+48369,54184.0,Parmer,Texas
+48371,52282.0,Pecos,Texas
+48373,46182.0,Polk,Texas
+48375,43157.0,Potter,Texas
+48377,27061.0,Presidio,Texas
+48379,49872.0,Rains,Texas
+48381,67397.0,Randall,Texas
+48383,70478.0,Reagan,Texas
+48385,34813.0,Real,Texas
+48387,37955.0,Red River,Texas
+48389,58384.0,Reeves,Texas
+48391,48112.0,Refugio,Texas
+48393,73854.0,Roberts,Texas
+48395,54201.0,Robertson,Texas
+48397,94767.0,Rockwall,Texas
+48399,41732.0,Runnels,Texas
+48401,52329.0,Rusk,Texas
+48403,33257.0,Sabine,Texas
+48405,35509.0,San Augustine,Texas
+48407,44658.0,San Jacinto,Texas
+48409,55229.0,San Patricio,Texas
+48411,44698.0,San Saba,Texas
+48413,55677.0,Schleicher,Texas
+48415,55889.0,Scurry,Texas
+48417,45187.0,Shackelford,Texas
+48419,40764.0,Shelby,Texas
+48421,56576.0,Sherman,Texas
+48423,53511.0,Smith,Texas
+48425,53162.0,Somervell,Texas
+48427,29294.0,Starr,Texas
+48429,45336.0,Stephens,Texas
+48431,59286.0,Sterling,Texas
+48433,48000.0,Stonewall,Texas
+48435,60543.0,Sutton,Texas
+48437,38418.0,Swisher,Texas
+48439,64874.0,Tarrant,Texas
+48441,50818.0,Taylor,Texas
+48443,33750.0,Terrell,Texas
+48445,44975.0,Terry,Texas
+48447,44196.0,Throckmorton,Texas
+48449,46698.0,Titus,Texas
+48451,51675.0,Tom Green,Texas
+48453,71767.0,Travis,Texas
+48455,40407.0,Trinity,Texas
+48457,43936.0,Tyler,Texas
+48459,50906.0,Upshur,Texas
+48461,52257.0,Upton,Texas
+48463,41752.0,Uvalde,Texas
+48465,45521.0,Val Verde,Texas
+48467,51935.0,Van Zandt,Texas
+48469,55631.0,Victoria,Texas
+48471,41855.0,Walker,Texas
+48473,57654.0,Waller,Texas
+48475,64630.0,Ward,Texas
+48477,56237.0,Washington,Texas
+48479,42293.0,Webb,Texas
+48481,49619.0,Wharton,Texas
+48483,49352.0,Wheeler,Texas
+48485,46575.0,Wichita,Texas
+48487,48773.0,Wilbarger,Texas
+48489,29944.0,Willacy,Texas
+48491,83679.0,Williamson,Texas
+48493,72445.0,Wilson,Texas
+48495,59167.0,Winkler,Texas
+48497,61709.0,Wise,Texas
+48499,48534.0,Wood,Texas
+48501,68814.0,Yoakum,Texas
+48503,47194.0,Young,Texas
+48505,31113.0,Zapata,Texas
+48507,30988.0,Zavala,Texas
+49001,54212.0,Beaver,Utah
+49003,59937.0,Box Elder,Utah
+49005,56840.0,Cache,Utah
+49007,50278.0,Carbon,Utah
+49009,81250.0,Daggett,Utah
+49011,79690.0,Davis,Utah
+49013,63919.0,Duchesne,Utah
+49015,52055.0,Emery,Utah
+49017,52337.0,Garfield,Utah
+49019,48673.0,Grand,Utah
+49021,46809.0,Iron,Utah
+49023,62237.0,Juab,Utah
+49025,48269.0,Kane,Utah
+49027,60445.0,Millard,Utah
+49029,89274.0,Morgan,Utah
+49031,39440.0,Piute,Utah
+49033,49886.0,Rich,Utah
+49035,71230.0,Salt Lake,Utah
+49037,44680.0,San Juan,Utah
+49039,51720.0,Sanpete,Utah
+49041,53020.0,Sevier,Utah
+49043,100453.0,Summit,Utah
+49045,71020.0,Tooele,Utah
+49047,66736.0,Uintah,Utah
+49049,70408.0,Utah,Utah
+49051,77449.0,Wasatch,Utah
+49053,56877.0,Washington,Utah
+49055,44694.0,Wayne,Utah
+49057,64636.0,Weber,Utah
+50001,65093.0,Addison,Vermont
+50003,53040.0,Bennington,Vermont
+50005,49348.0,Caledonia,Vermont
+50007,69896.0,Chittenden,Vermont
+50009,41045.0,Essex,Vermont
+50011,64258.0,Franklin,Vermont
+50013,69583.0,Grand Isle,Vermont
+50015,60365.0,Lamoille,Vermont
+50017,60159.0,Orange,Vermont
+50019,47915.0,Orleans,Vermont
+50021,54973.0,Rutland,Vermont
+50023,62108.0,Washington,Vermont
+50025,52659.0,Windham,Vermont
+50027,58303.0,Windsor,Vermont
+51001,43210.0,Accomack,Virginia
+51003,75394.0,Albemarle,Virginia
+51005,47794.0,Alleghany,Virginia
+51007,58526.0,Amelia,Virginia
+51009,49170.0,Amherst,Virginia
+51011,56176.0,Appomattox,Virginia
+51013,117374.0,Arlington,Virginia
+51015,61305.0,Augusta,Virginia
+51017,46137.0,Bath,Virginia
+51019,61541.0,Bedford,Virginia
+51021,50511.0,Bland,Virginia
+51023,68410.0,Botetourt,Virginia
+51025,41927.0,Brunswick,Virginia
+51027,30806.0,Buchanan,Virginia
+51029,46261.0,Buckingham,Virginia
+51031,50258.0,Campbell,Virginia
+51033,64715.0,Caroline,Virginia
+51035,43532.0,Carroll,Virginia
+51036,59192.0,Charles City,Virginia
+51037,39212.0,Charlotte,Virginia
+51041,80214.0,Chesterfield,Virginia
+51043,77936.0,Clarke,Virginia
+51045,55484.0,Craig,Virginia
+51047,73116.0,Culpeper,Virginia
+51049,46221.0,Cumberland,Virginia
+51051,29226.0,Dickenson,Virginia
+51053,55880.0,Dinwiddie,Virginia
+51057,52681.0,Essex,Virginia
+51059,121133.0,Fairfax,Virginia
+51061,97469.0,Fauquier,Virginia
+51063,49729.0,Floyd,Virginia
+51065,74931.0,Fluvanna,Virginia
+51067,52639.0,Franklin,Virginia
+51069,73250.0,Frederick,Virginia
+51071,52478.0,Giles,Virginia
+51073,66701.0,Gloucester,Virginia
+51075,89741.0,Goochland,Virginia
+51077,33969.0,Grayson,Virginia
+51079,64979.0,Greene,Virginia
+51081,44534.0,Greensville,Virginia
+51083,42289.0,Halifax,Virginia
+51085,88652.0,Hanover,Virginia
+51087,68572.0,Henrico,Virginia
+51089,36683.0,Henry,Virginia
+51091,46147.0,Highland,Virginia
+51093,71376.0,Isle of Wight,Virginia
+51095,83048.0,James City,Virginia
+51097,54516.0,King and Queen,Virginia
+51099,87321.0,King George,Virginia
+51101,68720.0,King William,Virginia
+51103,50739.0,Lancaster,Virginia
+51105,32718.0,Lee,Virginia
+51107,136268.0,Loudoun,Virginia
+51109,59343.0,Louisa,Virginia
+51111,41868.0,Lunenburg,Virginia
+51113,54197.0,Madison,Virginia
+51115,67009.0,Mathews,Virginia
+51117,42025.0,Mecklenburg,Virginia
+51119,51917.0,Middlesex,Virginia
+51121,54641.0,Montgomery,Virginia
+51125,62446.0,Nelson,Virginia
+51127,79698.0,New Kent,Virginia
+51131,43553.0,Northampton,Virginia
+51133,58677.0,Northumberland,Virginia
+51135,42869.0,Nottoway,Virginia
+51137,68481.0,Orange,Virginia
+51139,47951.0,Page,Virginia
+51141,40486.0,Patrick,Virginia
+51143,45382.0,Pittsylvania,Virginia
+51145,83914.0,Powhatan,Virginia
+51147,46189.0,Prince Edward,Virginia
+51149,67001.0,Prince George,Virginia
+51153,103445.0,Prince William,Virginia
+51155,52638.0,Pulaski,Virginia
+51157,68438.0,Rappahannock,Virginia
+51159,49831.0,Richmond,Virginia
+51161,65467.0,Roanoke,Virginia
+51163,54805.0,Rockbridge,Virginia
+51165,59817.0,Rockingham,Virginia
+51167,39482.0,Russell,Virginia
+51169,39144.0,Scott,Virginia
+51171,54921.0,Shenandoah,Virginia
+51173,40425.0,Smyth,Virginia
+51175,54611.0,Southampton,Virginia
+51177,85330.0,Spotsylvania,Virginia
+51179,106773.0,Stafford,Virginia
+51181,54844.0,Surry,Virginia
+51183,45801.0,Sussex,Virginia
+51185,40978.0,Tazewell,Virginia
+51187,68189.0,Warren,Virginia
+51191,46262.0,Washington,Virginia
+51193,54268.0,Westmoreland,Virginia
+51195,38345.0,Wise,Virginia
+51197,48043.0,Wythe,Virginia
+51199,90367.0,York,Virginia
+51510,96733.0,Alexandria city,Virginia
+51520,37904.0,Bristol city,Virginia
+51530,34273.0,Buena Vista city,Virginia
+51540,58933.0,Charlottesville city,Virginia
+51550,75790.0,Chesapeake city,Virginia
+51570,53716.0,Colonial Heights city,Virginia
+51580,39432.0,Covington city,Virginia
+51590,36301.0,Danville city,Virginia
+51595,30857.0,Emporia city,Virginia
+51600,111574.0,Fairfax city,Virginia
+51610,124796.0,Falls Church city,Virginia
+51620,40375.0,Franklin city,Virginia
+51630,63274.0,Fredericksburg city,Virginia
+51640,31938.0,Galax city,Virginia
+51650,54550.0,Hampton city,Virginia
+51660,43893.0,Harrisonburg city,Virginia
+51670,40497.0,Hopewell city,Virginia
+51678,36466.0,Lexington city,Virginia
+51680,43374.0,Lynchburg city,Virginia
+51683,78462.0,Manassas city,Virginia
+51685,80667.0,Manassas Park city,Virginia
+51690,33224.0,Martinsville city,Virginia
+51700,51884.0,Newport News city,Virginia
+51710,49146.0,Norfolk city,Virginia
+51720,28071.0,Norton city,Virginia
+51730,36135.0,Petersburg city,Virginia
+51735,96831.0,Poquoson city,Virginia
+51740,50224.0,Portsmouth city,Virginia
+51750,36743.0,Radford city,Virginia
+51760,45117.0,Richmond city,Virginia
+51770,43028.0,Roanoke city,Virginia
+51775,57185.0,Salem city,Virginia
+51790,48049.0,Staunton city,Virginia
+51800,70664.0,Suffolk city,Virginia
+51810,74186.0,Virginia Beach city,Virginia
+51820,45738.0,Waynesboro city,Virginia
+51830,56163.0,Williamsburg city,Virginia
+51840,53797.0,Winchester city,Virginia
+53001,49142.0,Adams,Washington
+53003,50423.0,Asotin,Washington
+53005,65650.0,Benton,Washington
+53007,56135.0,Chelan,Washington
+53009,49913.0,Clallam,Washington
+53011,71636.0,Clark,Washington
+53013,51111.0,Columbia,Washington
+53015,51752.0,Cowlitz,Washington
+53017,60452.0,Douglas,Washington
+53019,41924.0,Ferry,Washington
+53021,62002.0,Franklin,Washington
+53023,52525.0,Garfield,Washington
+53025,54982.0,Grant,Washington
+53027,47770.0,Grays Harbor,Washington
+53029,64809.0,Island,Washington
+53031,54471.0,Jefferson,Washington
+53033,89418.0,King,Washington
+53035,71610.0,Kitsap,Washington
+53037,55193.0,Kittitas,Washington
+53039,54056.0,Klickitat,Washington
+53041,50216.0,Lewis,Washington
+53043,50744.0,Lincoln,Washington
+53045,55726.0,Mason,Washington
+53047,45808.0,Okanogan,Washington
+53049,44846.0,Pacific,Washington
+53051,48583.0,Pend Oreille,Washington
+53053,67868.0,Pierce,Washington
+53055,60711.0,San Juan,Washington
+53057,62865.0,Skagit,Washington
+53059,58598.0,Skamania,Washington
+53061,82751.0,Snohomish,Washington
+53063,54852.0,Spokane,Washington
+53065,49200.0,Stevens,Washington
+53067,69592.0,Thurston,Washington
+53069,54085.0,Wahkiakum,Washington
+53071,56533.0,Walla Walla,Washington
+53073,59285.0,Whatcom,Washington
+53075,42163.0,Whitman,Washington
+53077,49871.0,Yakima,Washington
+54001,39580.0,Barbour,West Virginia
+54003,60615.0,Berkeley,West Virginia
+54005,38642.0,Boone,West Virginia
+54007,42213.0,Braxton,West Virginia
+54009,49772.0,Brooke,West Virginia
+54011,38321.0,Cabell,West Virginia
+54013,37610.0,Calhoun,West Virginia
+54015,35875.0,Clay,West Virginia
+54017,46449.0,Doddridge,West Virginia
+54019,40379.0,Fayette,West Virginia
+54021,35810.0,Gilmer,West Virginia
+54023,41071.0,Grant,West Virginia
+54025,39038.0,Greenbrier,West Virginia
+54027,40099.0,Hampshire,West Virginia
+54029,45580.0,Hancock,West Virginia
+54031,47186.0,Hardy,West Virginia
+54033,50433.0,Harrison,West Virginia
+54035,44783.0,Jackson,West Virginia
+54037,76503.0,Jefferson,West Virginia
+54039,45426.0,Kanawha,West Virginia
+54041,39423.0,Lewis,West Virginia
+54043,37679.0,Lincoln,West Virginia
+54045,38123.0,Logan,West Virginia
+54047,26547.0,McDowell,West Virginia
+54049,48605.0,Marion,West Virginia
+54051,43918.0,Marshall,West Virginia
+54053,40347.0,Mason,West Virginia
+54055,39372.0,Mercer,West Virginia
+54057,46354.0,Mineral,West Virginia
+54059,31305.0,Mingo,West Virginia
+54061,49926.0,Monongalia,West Virginia
+54063,36493.0,Monroe,West Virginia
+54065,50661.0,Morgan,West Virginia
+54067,38468.0,Nicholas,West Virginia
+54069,48418.0,Ohio,West Virginia
+54071,41210.0,Pendleton,West Virginia
+54073,48563.0,Pleasants,West Virginia
+54075,39702.0,Pocahontas,West Virginia
+54077,48317.0,Preston,West Virginia
+54079,59626.0,Putnam,West Virginia
+54081,42296.0,Raleigh,West Virginia
+54083,41094.0,Randolph,West Virginia
+54085,44472.0,Ritchie,West Virginia
+54087,34300.0,Roane,West Virginia
+54089,36049.0,Summers,West Virginia
+54091,47205.0,Taylor,West Virginia
+54093,45655.0,Tucker,West Virginia
+54095,41108.0,Tyler,West Virginia
+54097,40401.0,Upshur,West Virginia
+54099,36875.0,Wayne,West Virginia
+54101,34312.0,Webster,West Virginia
+54103,42125.0,Wetzel,West Virginia
+54105,40189.0,Wirt,West Virginia
+54107,45958.0,Wood,West Virginia
+54109,40045.0,Wyoming,West Virginia
+55001,43280.0,Adams,Wisconsin
+55003,43861.0,Ashland,Wisconsin
+55005,50903.0,Barron,Wisconsin
+55007,52910.0,Bayfield,Wisconsin
+55009,59963.0,Brown,Wisconsin
+55011,57134.0,Buffalo,Wisconsin
+55013,49982.0,Burnett,Wisconsin
+55015,72530.0,Calumet,Wisconsin
+55017,57288.0,Chippewa,Wisconsin
+55019,51872.0,Clark,Wisconsin
+55021,65348.0,Columbia,Wisconsin
+55023,48853.0,Crawford,Wisconsin
+55025,70541.0,Dane,Wisconsin
+55027,58870.0,Dodge,Wisconsin
+55029,58287.0,Door,Wisconsin
+55031,52480.0,Douglas,Wisconsin
+55033,56268.0,Dunn,Wisconsin
+55035,55711.0,Eau Claire,Wisconsin
+55037,49128.0,Florence,Wisconsin
+55039,59373.0,Fond du Lac,Wisconsin
+55041,44313.0,Forest,Wisconsin
+55043,52958.0,Grant,Wisconsin
+55045,62699.0,Green,Wisconsin
+55047,53260.0,Green Lake,Wisconsin
+55049,62785.0,Iowa,Wisconsin
+55051,40801.0,Iron,Wisconsin
+55053,52984.0,Jackson,Wisconsin
+55055,63676.0,Jefferson,Wisconsin
+55057,51056.0,Juneau,Wisconsin
+55059,60929.0,Kenosha,Wisconsin
+55061,63118.0,Kewaunee,Wisconsin
+55063,55479.0,La Crosse,Wisconsin
+55065,59629.0,Lafayette,Wisconsin
+55067,46557.0,Langlade,Wisconsin
+55069,56086.0,Lincoln,Wisconsin
+55071,53489.0,Manitowoc,Wisconsin
+55073,59543.0,Marathon,Wisconsin
+55075,47497.0,Marinette,Wisconsin
+55077,49586.0,Marquette,Wisconsin
+55078,43872.0,Menominee,Wisconsin
+55079,48742.0,Milwaukee,Wisconsin
+55081,58178.0,Monroe,Wisconsin
+55083,57105.0,Oconto,Wisconsin
+55085,54198.0,Oneida,Wisconsin
+55087,63536.0,Outagamie,Wisconsin
+55089,82807.0,Ozaukee,Wisconsin
+55091,53140.0,Pepin,Wisconsin
+55093,72111.0,Pierce,Wisconsin
+55095,56932.0,Polk,Wisconsin
+55097,57368.0,Portage,Wisconsin
+55099,46742.0,Price,Wisconsin
+55101,59749.0,Racine,Wisconsin
+55103,51335.0,Richland,Wisconsin
+55105,55832.0,Rock,Wisconsin
+55107,44302.0,Rusk,Wisconsin
+55109,81124.0,St. Croix,Wisconsin
+55111,56732.0,Sauk,Wisconsin
+55113,44555.0,Sawyer,Wisconsin
+55115,54143.0,Shawano,Wisconsin
+55117,58943.0,Sheboygan,Wisconsin
+55119,51698.0,Taylor,Wisconsin
+55121,55865.0,Trempealeau,Wisconsin
+55123,50905.0,Vernon,Wisconsin
+55125,44285.0,Vilas,Wisconsin
+55127,61106.0,Walworth,Wisconsin
+55129,48422.0,Washburn,Wisconsin
+55131,74062.0,Washington,Wisconsin
+55133,84331.0,Waukesha,Wisconsin
+55135,57680.0,Waupaca,Wisconsin
+55137,51195.0,Waushara,Wisconsin
+55139,57124.0,Winnebago,Wisconsin
+55141,53473.0,Wood,Wisconsin
+56001,46865.0,Albany,Wyoming
+56003,53435.0,Big Horn,Wyoming
+56005,79916.0,Campbell,Wyoming
+56007,60206.0,Carbon,Wyoming
+56009,63923.0,Converse,Wyoming
+56011,64055.0,Crook,Wyoming
+56013,54242.0,Fremont,Wyoming
+56015,49774.0,Goshen,Wyoming
+56017,51875.0,Hot Springs,Wyoming
+56019,55991.0,Johnson,Wyoming
+56021,64220.0,Laramie,Wyoming
+56023,64519.0,Lincoln,Wyoming
+56025,60550.0,Natrona,Wyoming
+56027,39359.0,Niobrara,Wyoming
+56029,62666.0,Park,Wyoming
+56031,47096.0,Platte,Wyoming
+56033,58521.0,Sheridan,Wyoming
+56035,78680.0,Sublette,Wyoming
+56037,73008.0,Sweetwater,Wyoming
+56039,83831.0,Teton,Wyoming
+56041,58235.0,Uinta,Wyoming
+56043,53426.0,Washakie,Wyoming
+56045,52867.0,Weston,Wyoming
+72001,12902.0,Adjuntas Municipio,Puerto Rico
+72003,16347.0,Aguada Municipio,Puerto Rico
+72005,16693.0,Aguadilla Municipio,Puerto Rico
+72007,17255.0,Aguas Buenas Municipio,Puerto Rico
+72009,19720.0,Aibonito Municipio,Puerto Rico
+72011,19379.0,A�asco Municipio,Puerto Rico
+72013,18001.0,Arecibo Municipio,Puerto Rico
+72015,16976.0,Arroyo Municipio,Puerto Rico
+72017,16889.0,Barceloneta Municipio,Puerto Rico
+72019,15970.0,Barranquitas Municipio,Puerto Rico
+72021,26017.0,Bayam�n Municipio,Puerto Rico
+72023,16080.0,Cabo Rojo Municipio,Puerto Rico
+72025,25006.0,Caguas Municipio,Puerto Rico
+72027,16831.0,Camuy Municipio,Puerto Rico
+72029,20673.0,Can�vanas Municipio,Puerto Rico
+72031,29434.0,Carolina Municipio,Puerto Rico
+72033,18253.0,Cata�o Municipio,Puerto Rico
+72035,21320.0,Cayey Municipio,Puerto Rico
+72037,19103.0,Ceiba Municipio,Puerto Rico
+72039,15071.0,Ciales Municipio,Puerto Rico
+72041,19949.0,Cidra Municipio,Puerto Rico
+72043,19833.0,Coamo Municipio,Puerto Rico
+72045,12812.0,Comer�o Municipio,Puerto Rico
+72047,15088.0,Corozal Municipio,Puerto Rico
+72049,23802.0,Culebra Municipio,Puerto Rico
+72051,29667.0,Dorado Municipio,Puerto Rico
+72053,19068.0,Fajardo Municipio,Puerto Rico
+72054,20315.0,Florida Municipio,Puerto Rico
+72055,13242.0,Gu�nica Municipio,Puerto Rico
+72057,16374.0,Guayama Municipio,Puerto Rico
+72059,16922.0,Guayanilla Municipio,Puerto Rico
+72061,33937.0,Guaynabo Municipio,Puerto Rico
+72063,33661.0,Gurabo Municipio,Puerto Rico
+72065,17201.0,Hatillo Municipio,Puerto Rico
+72067,19394.0,Hormigueros Municipio,Puerto Rico
+72069,19880.0,Humacao Municipio,Puerto Rico
+72071,16748.0,Isabela Municipio,Puerto Rico
+72073,15424.0,Jayuya Municipio,Puerto Rico
+72075,20845.0,Juana D�az Municipio,Puerto Rico
+72077,18969.0,Juncos Municipio,Puerto Rico
+72079,13747.0,Lajas Municipio,Puerto Rico
+72081,14540.0,Lares Municipio,Puerto Rico
+72083,13435.0,Las Mar�as Municipio,Puerto Rico
+72085,21792.0,Las Piedras Municipio,Puerto Rico
+72087,17402.0,Lo�za Municipio,Puerto Rico
+72089,20829.0,Luquillo Municipio,Puerto Rico
+72091,19459.0,Manat� Municipio,Puerto Rico
+72093,13262.0,Maricao Municipio,Puerto Rico
+72095,19788.0,Maunabo Municipio,Puerto Rico
+72097,14120.0,Mayag�ez Municipio,Puerto Rico
+72099,14155.0,Moca Municipio,Puerto Rico
+72101,20589.0,Morovis Municipio,Puerto Rico
+72103,19356.0,Naguabo Municipio,Puerto Rico
+72105,19332.0,Naranjito Municipio,Puerto Rico
+72107,13319.0,Orocovis Municipio,Puerto Rico
+72109,15761.0,Patillas Municipio,Puerto Rico
+72111,17592.0,Pe�uelas Municipio,Puerto Rico
+72113,17173.0,Ponce Municipio,Puerto Rico
+72115,16630.0,Quebradillas Municipio,Puerto Rico
+72117,21591.0,Rinc�n Municipio,Puerto Rico
+72119,22509.0,R�o Grande Municipio,Puerto Rico
+72121,16846.0,Sabana Grande Municipio,Puerto Rico
+72123,16887.0,Salinas Municipio,Puerto Rico
+72125,15619.0,San Germ�n Municipio,Puerto Rico
+72127,22146.0,San Juan Municipio,Puerto Rico
+72129,18821.0,San Lorenzo Municipio,Puerto Rico
+72131,14812.0,San Sebasti�n Municipio,Puerto Rico
+72133,17640.0,Santa Isabel Municipio,Puerto Rico
+72135,28863.0,Toa Alta Municipio,Puerto Rico
+72137,24899.0,Toa Baja Municipio,Puerto Rico
+72139,31193.0,Trujillo Alto Municipio,Puerto Rico
+72141,16533.0,Utuado Municipio,Puerto Rico
+72143,18895.0,Vega Alta Municipio,Puerto Rico
+72145,19096.0,Vega Baja Municipio,Puerto Rico
+72147,15539.0,Vieques Municipio,Puerto Rico
+72149,19855.0,Villalba Municipio,Puerto Rico
+72151,16013.0,Yabucoa Municipio,Puerto Rico
+72153,14954.0,Yauco Municipio,Puerto Rico
+36NYC,61884.61918031786,New York City,New York
+29KAN,52405.0,Kansas City,Missouri
+29JOP,42782.0,Joplin,Missouri
