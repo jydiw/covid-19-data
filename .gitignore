@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/external/cc-est2019-alldata.csv
+data/processed/nyt_df.p
