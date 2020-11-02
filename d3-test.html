@@ -1,12 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
 </head>
 <body>
-
-<script>
-    // write your d3 code here.. 
-</script>
 </body>
+<script>
+
+// LOADING AND TRANSFORMING DATA
+
+// ===== load data from CSVs
+
+  let store = {}
+
+    // if we want to load both
+  function loadData() {
+    return Promise.all([
+      d3.csv("data/processed/nyt_df.csv"),
+      d3.csv("data/processed/info_df.csv")
+    ]).then(datasets => {
+      store.covid = datasets[0];
+      store.info = datasets[1];
+      return store;
+    })
+  }
+
+  // https://stackoverflow.com/a/40206462/14083095
+  function groupByDate(data) {
+    d3.nest().key(function (data) {
+        return data.date; })
+      .rollup(function (leaves) {
+        return d3.sum(leaves, function (d))
+      })
+  }
+
+// DISPLAYING DATA
+
+    function showData() {
+        let nyt = store.nyt;
+    }
+
+
+</script>
 </html>
